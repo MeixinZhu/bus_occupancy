@@ -1,8 +1,7 @@
 ###########################################################################################
 # This file includes software codes to aggregate the average bus occupany rate from three
 # different bus types (e.g., transit bus, school bus, and motorcoach) for 50 US states and
-# the District of Columbia as well as 183 urbanized areas defined by the US Census Bureau
-# with population higher than 200k
+# the District of Columbia 
 ###########################################################################################
 
 # set working directory to where this script is located
