@@ -1,0 +1,184 @@
+id,UACE,areaname,state,statename,pop
+1,199,"Aberdeen--Bel Air South--Bel Air North, MD",MD,Maryland,213751
+2,766,"Akron, OH",OH,Ohio,569499
+3,970,"Albany--Schenectady, NY",NY,New York,594962
+4,1171,"Albuquerque, NM",NM,New Mexico,741318
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208
+6,2305,"Anchorage, AK",AK,Alaska,251243
+7,2602,"Ann Arbor, MI",MI,Michigan,306022
+8,2683,"Antioch, CA",CA,California,277634
+9,2764,"Appleton, WI",WI,Wisconsin,216154
+10,3358,"Asheville, NC",NC,North Carolina,280648
+11,3817,"Atlanta, GA",GA,Georgia,4515419
+12,3898,"Atlantic City, NJ",NJ,New Jersey,248402
+13,4222,"Augusta-Richmond County, GA--SC",GA,Georgia,283283
+14,4384,"Austin, TX",TX,Texas,1362416
+15,4681,"Bakersfield, CA",CA,California,523994
+16,4843,"Baltimore, MD",MD,Maryland,2203663
+17,5167,"Barnstable Town, MA",MA,Massachusetts,246695
+18,5680,"Baton Rouge, LA",LA,Louisiana,594309
+19,7786,"Birmingham, AL",AL,Alabama,749495
+20,8785,"Boise City, ID",ID,Idaho,349684
+21,8974,"Bonita Springs, FL",FL,Florida,310298
+22,9271,"Boston, MA--NH--RI",MA,Massachusetts,4087709
+23,10162,"Bridgeport--Stamford, CT--NY",CT,Connecticut,877630
+24,10972,"Brownsville, TX",TX,Texas,217585
+25,11350,"Buffalo, NY",NY,New York,935906
+26,13375,"Canton, OH",OH,Ohio,279245
+27,13510,"Cape Coral, FL",FL,Florida,530290
+28,15508,"Charleston--North Charleston, SC",SC,South Carolina,548404
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484
+30,15832,"Chattanooga, TN--GA",TN,Tennessee,302748
+31,16264,"Chicago, IL--IN",IL,Illinois,8018716
+32,16264,"Chicago, IL--IN",IN,Indiana,589492
+33,16885,"Cincinnati, OH--KY--IN",KY,Kentucky,328060
+34,16885,"Cincinnati, OH--KY--IN",OH,Ohio,1286542
+35,17668,"Cleveland, OH",OH,Ohio,1780673
+36,18856,"Colorado Springs, CO",CO,Colorado,559409
+37,18964,"Columbia, SC",SC,South Carolina,549777
+38,19234,"Columbus, OH",OH,Ohio,1368035
+39,19504,"Concord, CA",CA,California,615968
+40,19558,"Concord, NC",NC,North Carolina,214881
+41,19755,"Conroe--The Woodlands, TX",TX,Texas,239938
+42,20287,"Corpus Christi, TX",TX,Texas,320069
+43,22042,"Dallas--Fort Worth--Arlington, TX",TX,Texas,5121892
+44,22528,"Dayton, OH",OH,Ohio,724091
+45,23500,"Denton--Lewisville, TX",TX,Texas,366174
+46,23527,"Denver--Aurora, CO",CO,Colorado,2374203
+47,23743,"Des Moines, IA",IA,Iowa,450070
+48,23824,"Detroit, MI",MI,Michigan,3734090
+49,25228,"Durham, NC",NC,North Carolina,347602
+50,27253,"El Paso, TX--NM",TX,Texas,772374
+51,28117,"Eugene, OR",OR,Oregon,247421
+52,28333,"Evansville, IN--KY",IN,Indiana,200768
+53,29440,"Fayetteville, NC",NC,North Carolina,310282
+54,29494,"Fayetteville--Springdale--Rogers, AR--MO",AR,Arkansas,295081
+55,29872,"Flint, MI",MI,Michigan,356218
+56,30628,"Fort Collins, CO",CO,Colorado,264465
+57,31087,"Fort Wayne, IN",IN,Indiana,313492
+58,31843,"Fresno, CA",CA,California,654628
+59,34300,"Grand Rapids, MI",MI,Michigan,569935
+60,34813,"Green Bay, WI",WI,Wisconsin,206520
+61,35164,"Greensboro, NC",NC,North Carolina,311810
+62,35461,"Greenville, SC",SC,South Carolina,400492
+63,35920,"Gulfport, MS",MS,Mississippi,208948
+64,37081,"Harrisburg, PA",PA,Pennsylvania,444474
+65,37243,"Hartford, CT",CT,Connecticut,924859
+66,38647,"Hickory, NC",NC,North Carolina,212195
+67,40429,"Houston, TX",TX,Texas,4944332
+68,40780,"Huntsville, AL",AL,Alabama,286692
+69,41212,"Indianapolis, IN",IN,Indiana,1487483
+70,41347,"Indio--Cathedral City, CA",CA,California,345580
+71,42211,"Jackson, MS",MS,Mississippi,351478
+72,42346,"Jacksonville, FL",FL,Florida,1065219
+73,43723,"Kalamazoo, MI",MI,Michigan,209703
+74,43912,"Kansas City, MO--KS",KS,Kansas,663508
+75,43912,"Kansas City, MO--KS",MO,Missouri,855909
+76,44479,"Kennewick--Pasco, WA",WA,Washington,210975
+77,44992,"Killeen, TX",TX,Texas,217630
+78,45451,"Kissimmee, FL",FL,Florida,314071
+79,45640,"Knoxville, TN",TN,Tennessee,558696
+80,46045,"Lafayette, LA",LA,Louisiana,252720
+81,46828,"Lakeland, FL",FL,Florida,262596
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004
+83,47611,"Lancaster--Palmdale, CA",CA,California,341219
+84,47719,"Lansing, MI",MI,Michigan,313532
+85,47854,"Laredo, TX",TX,Texas,235730
+86,47995,"Las Vegas--Henderson, NV",NV,Nevada,1886011
+87,49582,"Lexington-Fayette, KY",KY,Kentucky,290263
+88,49933,"Lincoln, NE",NE,Nebraska,258719
+89,50392,"Little Rock, AR",AR,Arkansas,431388
+90,51445,"Los Angeles--Long Beach--Anaheim, CA",CA,California,12150996
+91,51755,"Louisville/Jefferson County, KY--IN",KY,Kentucky,832366
+92,51877,"Lubbock, TX",TX,Texas,237356
+93,52390,"McAllen, TX",TX,Texas,728825
+94,53200,"Madison, WI",WI,Wisconsin,401661
+95,56116,"Memphis, TN--MS--AR",TN,Tennessee,891481
+96,56602,"Miami, FL",FL,Florida,5502379
+97,57466,"Milwaukee, WI",WI,Wisconsin,1376476
+98,57628,"Minneapolis--St. Paul, MN--WI",MN,Minnesota,2650614
+99,57709,"Mission Viejo--Lake Forest--San Clemente, CA",CA,California,583681
+100,57925,"Mobile, AL",AL,Alabama,326183
+101,58006,"Modesto, CA",CA,California,358172
+102,58600,"Montgomery, AL",AL,Alabama,263907
+103,60799,"Murrieta--Temecula--Menifee, CA",CA,California,441546
+104,61165,"Nashua, NH--MA",NH,New Hampshire,219082
+105,61273,"Nashville-Davidson, TN",TN,Tennessee,969587
+106,62407,"New Haven, CT",CT,Connecticut,562839
+107,62677,"New Orleans, LA",LA,Louisiana,899703
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715
+110,64945,"Ogden--Layton, UT",UT,Utah,546026
+111,65080,"Oklahoma City, OK",OK,Oklahoma,861505
+112,65269,"Omaha, NE--IA",NE,Nebraska,656462
+113,65863,"Orlando, FL",FL,Florida,1510516
+114,66673,"Oxnard, CA",CA,California,367260
+115,67105,"Palm Bay--Melbourne, FL",FL,Florida,452791
+116,67134,"Palm Coast--Daytona Beach--Port Orange, FL",FL,Florida,349064
+117,68482,"Pensacola, FL--AL",FL,Florida,333801
+118,68509,"Peoria, IL",IL,Illinois,266921
+119,69076,"Philadelphia, PA--NJ--DE--MD",DE,Delaware,481625
+120,69076,"Philadelphia, PA--NJ--DE--MD",NJ,New Jersey,1150865
+121,69076,"Philadelphia, PA--NJ--DE--MD",PA,Pennsylvania,3760387
+122,69184,"Phoenix--Mesa, AZ",AZ,Arizona,3629114
+123,69697,"Pittsburgh, PA",PA,Pennsylvania,1733853
+124,71263,"Portland, ME",ME,Maine,203914
+125,71317,"Portland, OR--WA",OR,Oregon,1490336
+126,71317,"Portland, OR--WA",WA,Washington,359562
+127,71479,"Port St. Lucie, FL",FL,Florida,376047
+128,71803,"Poughkeepsie--Newburgh, NY--NJ",NY,New York,412338
+129,72505,"Providence, RI--MA",MA,Massachusetts,260276
+130,72505,"Providence, RI--MA",RI,Rhode Island,930680
+131,72559,"Provo--Orem, UT",UT,Utah,482819
+132,73261,"Raleigh, NC",NC,North Carolina,884891
+133,73693,"Reading, PA",PA,Pennsylvania,266254
+134,74179,"Reno, NV--CA",NV,Nevada,392132
+135,74746,"Richmond, VA",VA,Virginia,953556
+136,75340,"Riverside--San Bernardino, CA",CA,California,1932666
+137,75421,"Roanoke, VA",VA,Virginia,210111
+138,75664,"Rochester, NY",NY,New York,720572
+139,75718,"Rockford, IL",IL,Illinois,296863
+140,76474,"Round Lake Beach--McHenry--Grayslake, IL--WI",IL,Illinois,259811
+141,77068,"Sacramento, CA",CA,California,1723634
+142,77770,"St. Louis, MO--IL",IL,Illinois,372895
+143,77770,"St. Louis, MO--IL",MO,Missouri,1777811
+144,78229,"Salem, OR",OR,Oregon,236632
+145,78499,"Salt Lake City--West Valley City, UT",UT,Utah,1021243
+146,78580,"San Antonio, TX",TX,Texas,1758210
+147,78661,"San Diego, CA",CA,California,2956746
+148,78904,"San Francisco--Oakland, CA",CA,California,3281212
+149,79039,"San Jose, CA",CA,California,1664496
+150,79309,"Santa Clarita, CA",CA,California,258653
+151,79498,"Santa Rosa, CA",CA,California,308231
+152,79606,"Sarasota--Bradenton, FL",FL,Florida,643260
+153,79768,"Savannah, GA",GA,Georgia,260677
+154,80227,"Scranton, PA",PA,Pennsylvania,381502
+155,80389,"Seattle, WA",WA,Washington,3059393
+156,81739,"Shreveport, LA",LA,Louisiana,298317
+157,83116,"South Bend, IN--MI",IN,Indiana,241870
+158,83764,"Spokane, WA",WA,Washington,387847
+159,83926,"Springfield, MA--CT",MA,Massachusetts,531589
+160,83953,"Springfield, MO",MO,Missouri,273724
+161,85087,"Stockton, CA",CA,California,370583
+162,86302,"Syracuse, NY",NY,New York,412317
+163,86464,"Tallahassee, FL",FL,Florida,240223
+164,86599,"Tampa--St. Petersburg, FL",FL,Florida,2441770
+165,87490,"Thousand Oaks, CA",CA,California,214811
+166,87868,"Toledo, OH--MI",OH,Ohio,479182
+167,88462,"Trenton, NJ",NJ,New Jersey,296668
+168,88732,"Tucson, AZ",AZ,Arizona,843168
+169,88948,"Tulsa, OK",OK,Oklahoma,655479
+170,89770,"Urban Honolulu, HI",HI,Hawaii,802459
+171,90541,"Victorville--Hesperia, CA",CA,California,328454
+172,90892,"Virginia Beach, VA",VA,Virginia,1439666
+173,90946,"Visalia, CA",CA,California,219454
+174,92242,"Washington, DC--VA--MD",DC,District of Columbia,601723
+175,92242,"Washington, DC--VA--MD",MD,Maryland,1749163
+176,92242,"Washington, DC--VA--MD",VA,Virginia,2235884
+177,95077,"Wichita, KS",KS,Kansas,472870
+178,95833,"Wilmington, NC",NC,North Carolina,219957
+179,96670,"Winston-Salem, NC",NC,North Carolina,391024
+180,96697,"Winter Haven, FL",FL,Florida,201289
+181,97291,"Worcester, MA--CT",MA,Massachusetts,453586
+182,97750,"York, PA",PA,Pennsylvania,232045
+183,97831,"Youngstown, OH--PA",OH,Ohio,348073

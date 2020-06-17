@@ -1,0 +1,327 @@
+﻿id,UACE,areaname,state,statename,pop,UANAME,CBSA,metro_name,district_count,avg_enroll
+1,199,"Aberdeen--Bel Air South--Bel Air North, MD",MD,Maryland,213751,"Aberdeen--Bel Air South--Bel Air North, MD Urbanized Area",12580,"Baltimore-Towson, MD Metro Area",7,56586
+1,199,"Aberdeen--Bel Air South--Bel Air North, MD",MD,Maryland,213751,"Aberdeen--Bel Air South--Bel Air North, MD Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+2,766,"Akron, OH",OH,Ohio,569499,"Akron, OH Urbanized Area",10420,"Akron, OH Metro Area",29,3212
+2,766,"Akron, OH",OH,Ohio,569499,"Akron, OH Urbanized Area",15940,"Canton-Massillon, OH Metro Area",19,3147
+2,766,"Akron, OH",OH,Ohio,569499,"Akron, OH Urbanized Area",17460,"Cleveland-Elyria-Mentor, OH Metro Area",67,3902
+2,766,"Akron, OH",OH,Ohio,569499,"Akron, OH Urbanized Area",49300,"Wooster, OH Micro Area",,
+3,970,"Albany--Schenectady, NY",NY,New York,594962,"Albany--Schenectady, NY Urbanized Area",10580,"Albany-Schenectady-Troy, NY Metro Area",48,2423
+4,1171,"Albuquerque, NM",NM,New Mexico,741318,"Albuquerque, NM Urbanized Area",10740,"Albuquerque, NM Metro Area",10,13087
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208,"Allentown, PA--NJ Urbanized Area",10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",46,2525
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208,"Allentown, PA--NJ Urbanized Area",20700,"East Stroudsburg, PA Micro Area",4,6751
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208,"Allentown, PA--NJ Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208,"Allentown, PA--NJ Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+5,1495,"Allentown, PA--NJ",PA,Pennsylvania,632208,"Allentown, PA--NJ Urbanized Area",39740,"Reading, PA Metro Area",18,3755
+6,2305,"Anchorage, AK",AK,Alaska,251243,"Anchorage, AK Urbanized Area",11260,"Anchorage, AK Metro Area",4,16572
+7,2602,"Ann Arbor, MI",MI,Michigan,306022,"Ann Arbor, MI Urbanized Area",11460,"Ann Arbor, MI Metro Area",9,4687
+7,2602,"Ann Arbor, MI",MI,Michigan,306022,"Ann Arbor, MI Urbanized Area",19820,"Detroit-Warren-Livonia, MI Metro Area",101,5853
+8,2683,"Antioch, CA",CA,California,277634,"Antioch, CA Urbanized Area",41860,"San Francisco-Oakland-Fremont, CA Metro Area",79,7295
+9,2764,"Appleton, WI",WI,Wisconsin,216154,"Appleton, WI Urbanized Area",11540,"Appleton, WI Metro Area",13,2988
+9,2764,"Appleton, WI",WI,Wisconsin,216154,"Appleton, WI Urbanized Area",36780,"Oshkosh-Neenah, WI Metro Area",5,4520
+10,3358,"Asheville, NC",NC,North Carolina,280648,"Asheville, NC Urbanized Area",11700,"Asheville, NC Metro Area",5,10622
+10,3358,"Asheville, NC",NC,North Carolina,280648,"Asheville, NC Urbanized Area",14820,"Brevard, NC Micro Area",,
+10,3358,"Asheville, NC",NC,North Carolina,280648,"Asheville, NC Urbanized Area",99999,Not in a metro/micro area,,
+11,3817,"Atlanta, GA",GA,Georgia,4515419,"Atlanta, GA Urbanized Area",12060,"Atlanta-Sandy Springs-Marietta, GA Metro Area",37,25880
+11,3817,"Atlanta, GA",GA,Georgia,4515419,"Atlanta, GA Urbanized Area",23580,"Gainesville, GA Metro Area",2,17303
+11,3817,"Atlanta, GA",GA,Georgia,4515419,"Atlanta, GA Urbanized Area",99999,Not in a metro/micro area,,
+12,3898,"Atlantic City, NJ",NJ,New Jersey,248402,"Atlantic City, NJ Urbanized Area",12100,"Atlantic City-Hammonton, NJ Metro Area",25,1888
+12,3898,"Atlantic City, NJ",NJ,New Jersey,248402,"Atlantic City, NJ Urbanized Area",36140,"Ocean City, NJ Metro Area",19,797
+13,4222,"Augusta-Richmond County, GA--SC",GA,Georgia,283283,"Augusta-Richmond County, GA--SC Urbanized Area",12260,"Augusta-Richmond County, GA-SC Metro Area",7,13569
+14,4384,"Austin, TX",TX,Texas,1362416,"Austin, TX Urbanized Area",12420,"Austin-Round Rock-San Marcos, TX Metro Area",29,10671
+15,4681,"Bakersfield, CA",CA,California,523994,"Bakersfield, CA Urbanized Area",12540,"Bakersfield-Delano, CA Metro Area",47,3718
+16,4843,"Baltimore, MD",MD,Maryland,2203663,"Baltimore, MD Urbanized Area",12580,"Baltimore-Towson, MD Metro Area",7,56586
+16,4843,"Baltimore, MD",MD,Maryland,2203663,"Baltimore, MD Urbanized Area",47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,38510
+17,5167,"Barnstable Town, MA",MA,Massachusetts,246695,"Barnstable Town, MA Urbanized Area",12700,"Barnstable Town, MA Metro Area",11,1495
+17,5167,"Barnstable Town, MA",MA,Massachusetts,246695,"Barnstable Town, MA Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",125,4134
+18,5680,"Baton Rouge, LA",LA,Louisiana,594309,"Baton Rouge, LA Urbanized Area",12940,"Baton Rouge, LA Metro Area",12,9541
+19,7786,"Birmingham, AL",AL,Alabama,749495,"Birmingham, AL Urbanized Area",13820,"Birmingham-Hoover, AL Metro Area",23,8539
+20,8785,"Boise City, ID",ID,Idaho,349684,"Boise City, ID Urbanized Area",14260,"Boise City-Nampa, ID Metro Area",19,5974
+21,8974,"Bonita Springs, FL",FL,Florida,310298,"Bonita Springs, FL Urbanized Area",15980,"Cape Coral-Fort Myers, FL Metro Area",1,87425
+21,8974,"Bonita Springs, FL",FL,Florida,310298,"Bonita Springs, FL Urbanized Area",34940,"Naples-Marco Island, FL Metro Area",1,44418
+22,9271,"Boston, MA--NH--RI",MA,Massachusetts,4087709,"Boston, MA--NH--RI Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",125,4134
+22,9271,"Boston, MA--NH--RI",MA,Massachusetts,4087709,"Boston, MA--NH--RI Urbanized Area",31700,"Manchester-Nashua, NH Metro Area",,
+22,9271,"Boston, MA--NH--RI",MA,Massachusetts,4087709,"Boston, MA--NH--RI Urbanized Area",39300,"Providence-New Bedford-Fall River, RI-MA Metro Area",52,3946
+22,9271,"Boston, MA--NH--RI",MA,Massachusetts,4087709,"Boston, MA--NH--RI Urbanized Area",49340,"Worcester, MA Metro Area",52,2023
+23,10162,"Bridgeport--Stamford, CT--NY",CT,Connecticut,877630,"Bridgeport--Stamford, CT--NY Urbanized Area",14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",24,5976
+23,10162,"Bridgeport--Stamford, CT--NY",CT,Connecticut,877630,"Bridgeport--Stamford, CT--NY Urbanized Area",35300,"New Haven-Milford, CT Metro Area",26,4664
+23,10162,"Bridgeport--Stamford, CT--NY",CT,Connecticut,877630,"Bridgeport--Stamford, CT--NY Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+23,10162,"Bridgeport--Stamford, CT--NY",CT,Connecticut,877630,"Bridgeport--Stamford, CT--NY Urbanized Area",45860,"Torrington, CT Micro Area",,
+24,10972,"Brownsville, TX",TX,Texas,217585,"Brownsville, TX Urbanized Area",15180,"Brownsville-Harlingen, TX Metro Area",9,11093
+25,11350,"Buffalo, NY",NY,New York,935906,"Buffalo, NY Urbanized Area",15380,"Buffalo-Niagara Falls, NY Metro Area",,
+26,13375,"Canton, OH",OH,Ohio,279245,"Canton, OH Urbanized Area",10420,"Akron, OH Metro Area",29,3212
+26,13375,"Canton, OH",OH,Ohio,279245,"Canton, OH Urbanized Area",15940,"Canton-Massillon, OH Metro Area",19,3147
+27,13510,"Cape Coral, FL",FL,Florida,530290,"Cape Coral, FL Urbanized Area",15980,"Cape Coral-Fort Myers, FL Metro Area",1,87425
+27,13510,"Cape Coral, FL",FL,Florida,530290,"Cape Coral, FL Urbanized Area",39460,"Punta Gorda, FL Metro Area",1,16264
+28,15508,"Charleston--North Charleston, SC",SC,South Carolina,548404,"Charleston--North Charleston, SC Urbanized Area",16700,"Charleston-North Charleston-Summerville, SC Metro Area",4,26000
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484,"Charlotte, NC--SC Urbanized Area",16740,"Charlotte-Gastonia-Rock Hill, NC-SC Metro Area",,
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484,"Charlotte, NC--SC Urbanized Area",25860,"Hickory-Lenoir-Morganton, NC Metro Area",6,9073
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484,"Charlotte, NC--SC Urbanized Area",29580,"Lancaster, SC Micro Area",16,4193
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484,"Charlotte, NC--SC Urbanized Area",30740,"Lincolnton, NC Micro Area",,
+29,15670,"Charlotte, NC--SC",NC,North Carolina,1180484,"Charlotte, NC--SC Urbanized Area",44380,"Statesville-Mooresville, NC Micro Area",,
+30,15832,"Chattanooga, TN--GA",TN,Tennessee,302748,"Chattanooga, TN--GA Urbanized Area",16860,"Chattanooga, TN-GA Metro Area",8,9269
+31,16264,"Chicago, IL--IN",IL,Illinois,8018716,"Chicago, IL--IN Urbanized Area",16980,"Chicago-Joliet-Naperville, IL-IN-WI Metro Area",353,4425
+32,16264,"Chicago, IL--IN",IN,Indiana,589492,"Chicago, IL--IN Urbanized Area",16980,"Chicago-Joliet-Naperville, IL-IN-WI Metro Area",353,4425
+33,16885,"Cincinnati, OH--KY--IN",KY,Kentucky,328060,"Cincinnati, OH--KY--IN Urbanized Area",17140,"Cincinnati-Middletown, OH-KY-IN Metro Area",79,3864
+34,16885,"Cincinnati, OH--KY--IN",OH,Ohio,1286542,"Cincinnati, OH--KY--IN Urbanized Area",17140,"Cincinnati-Middletown, OH-KY-IN Metro Area",79,3864
+35,17668,"Cleveland, OH",OH,Ohio,1780673,"Cleveland, OH Urbanized Area",10420,"Akron, OH Metro Area",29,3212
+35,17668,"Cleveland, OH",OH,Ohio,1780673,"Cleveland, OH Urbanized Area",11780,"Ashtabula, OH Micro Area",,
+35,17668,"Cleveland, OH",OH,Ohio,1780673,"Cleveland, OH Urbanized Area",17460,"Cleveland-Elyria-Mentor, OH Metro Area",67,3902
+36,18856,"Colorado Springs, CO",CO,Colorado,559409,"Colorado Springs, CO Urbanized Area",17820,"Colorado Springs, CO Metro Area",18,6633
+36,18856,"Colorado Springs, CO",CO,Colorado,559409,"Colorado Springs, CO Urbanized Area",19740,"Denver-Aurora-Broomfield, CO Metro Area",25,17884
+37,18964,"Columbia, SC",SC,South Carolina,549777,"Columbia, SC Urbanized Area",17900,"Columbia, SC Metro Area",11,11084
+37,18964,"Columbia, SC",SC,South Carolina,549777,"Columbia, SC Urbanized Area",35140,"Newberry, SC Micro Area",,
+38,19234,"Columbus, OH",OH,Ohio,1368035,"Columbus, OH Urbanized Area",18140,"Columbus, OH Metro Area",59,4864
+39,19504,"Concord, CA",CA,California,615968,"Concord, CA Urbanized Area",41860,"San Francisco-Oakland-Fremont, CA Metro Area",79,7295
+40,19558,"Concord, NC",NC,North Carolina,214881,"Concord, NC Urbanized Area",16740,"Charlotte-Gastonia-Rock Hill, NC-SC Metro Area",,
+40,19558,"Concord, NC",NC,North Carolina,214881,"Concord, NC Urbanized Area",41580,"Salisbury, NC Micro Area",,
+40,19558,"Concord, NC",NC,North Carolina,214881,"Concord, NC Urbanized Area",45640,"Thomasville-Lexington, NC Micro Area",,
+41,19755,"Conroe--The Woodlands, TX",TX,Texas,239938,"Conroe--The Woodlands, TX Urbanized Area",26420,"Houston-Sugar Land-Baytown, TX Metro Area",64,19360
+42,20287,"Corpus Christi, TX",TX,Texas,320069,"Corpus Christi, TX Urbanized Area",18580,"Corpus Christi, TX Metro Area",20,3993
+43,22042,"Dallas--Fort Worth--Arlington, TX",TX,Texas,5121892,"Dallas--Fort Worth--Arlington, TX Urbanized Area",19100,"Dallas-Fort Worth-Arlington, TX Metro Area",112,11256
+44,22528,"Dayton, OH",OH,Ohio,724091,"Dayton, OH Urbanized Area",17140,"Cincinnati-Middletown, OH-KY-IN Metro Area",79,3864
+44,22528,"Dayton, OH",OH,Ohio,724091,"Dayton, OH Urbanized Area",19380,"Dayton, OH Metro Area",32,3306
+44,22528,"Dayton, OH",OH,Ohio,724091,"Dayton, OH Urbanized Area",44220,"Springfield, OH Metro Area",8,2537
+45,23500,"Denton--Lewisville, TX",TX,Texas,366174,"Denton--Lewisville, TX Urbanized Area",19100,"Dallas-Fort Worth-Arlington, TX Metro Area",112,11256
+46,23527,"Denver--Aurora, CO",CO,Colorado,2374203,"Denver--Aurora, CO Urbanized Area",14500,"Boulder, CO Metro Area",2,30371
+46,23527,"Denver--Aurora, CO",CO,Colorado,2374203,"Denver--Aurora, CO Urbanized Area",19740,"Denver-Aurora-Broomfield, CO Metro Area",25,17884
+46,23527,"Denver--Aurora, CO",CO,Colorado,2374203,"Denver--Aurora, CO Urbanized Area",24540,"Greeley, CO Metro Area",12,3301
+47,23743,"Des Moines, IA",IA,Iowa,450070,"Des Moines, IA Urbanized Area",19780,"Des Moines-West Des Moines, IA Metro Area",27,3904
+48,23824,"Detroit, MI",MI,Michigan,3734090,"Detroit, MI Urbanized Area",11460,"Ann Arbor, MI Metro Area",9,4687
+48,23824,"Detroit, MI",MI,Michigan,3734090,"Detroit, MI Urbanized Area",19820,"Detroit-Warren-Livonia, MI Metro Area",101,5853
+48,23824,"Detroit, MI",MI,Michigan,3734090,"Detroit, MI Urbanized Area",33780,"Monroe, MI Metro Area",10,2246
+49,25228,"Durham, NC",NC,North Carolina,347602,"Durham, NC Urbanized Area",20500,"Durham-Chapel Hill, NC Metro Area",5,13184
+49,25228,"Durham, NC",NC,North Carolina,347602,"Durham, NC Urbanized Area",39580,"Raleigh-Cary, NC Metro Area",3,65356
+50,27253,"El Paso, TX--NM",TX,Texas,772374,"El Paso, TX--NM Urbanized Area",21340,"El Paso, TX Metro Area",12,14697
+50,27253,"El Paso, TX--NM",TX,Texas,772374,"El Paso, TX--NM Urbanized Area",29740,"Las Cruces, NM Metro Area",3,13430
+51,28117,"Eugene, OR",OR,Oregon,247421,"Eugene, OR Urbanized Area",21660,"Eugene-Springfield, OR Metro Area",15,2915
+52,28333,"Evansville, IN--KY",IN,Indiana,200768,"Evansville, IN--KY Urbanized Area",21780,"Evansville, IN-KY Metro Area",5,8769
+53,29440,"Fayetteville, NC",NC,North Carolina,310282,"Fayetteville, NC Urbanized Area",20380,"Dunn, NC Micro Area",,
+53,29440,"Fayetteville, NC",NC,North Carolina,310282,"Fayetteville, NC Urbanized Area",22180,"Fayetteville, NC Metro Area",2,29765
+53,29440,"Fayetteville, NC",NC,North Carolina,310282,"Fayetteville, NC Urbanized Area",31300,"Lumberton, NC Micro Area",,
+54,29494,"Fayetteville--Springdale--Rogers, AR--MO",AR,Arkansas,295081,"Fayetteville--Springdale--Rogers, AR--MO Urbanized Area",22220,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",17,5035
+55,29872,"Flint, MI",MI,Michigan,356218,"Flint, MI Urbanized Area",19820,"Detroit-Warren-Livonia, MI Metro Area",101,5853
+55,29872,"Flint, MI",MI,Michigan,356218,"Flint, MI Urbanized Area",22420,"Flint, MI Metro Area",21,2982
+56,30628,"Fort Collins, CO",CO,Colorado,264465,"Fort Collins, CO Urbanized Area",22660,"Fort Collins-Loveland, CO Metro Area",3,15245
+56,30628,"Fort Collins, CO",CO,Colorado,264465,"Fort Collins, CO Urbanized Area",24540,"Greeley, CO Metro Area",12,3301
+57,31087,"Fort Wayne, IN",IN,Indiana,313492,"Fort Wayne, IN Urbanized Area",23060,"Fort Wayne, IN Metro Area",9,7026
+58,31843,"Fresno, CA",CA,California,654628,"Fresno, CA Urbanized Area",23420,"Fresno, CA Metro Area",30,6454
+58,31843,"Fresno, CA",CA,California,654628,"Fresno, CA Urbanized Area",31460,"Madera-Chowchilla, CA Metro Area",9,3722
+59,34300,"Grand Rapids, MI",MI,Michigan,569935,"Grand Rapids, MI Urbanized Area",24340,"Grand Rapids-Wyoming, MI Metro Area",39,3864
+59,34300,"Grand Rapids, MI",MI,Michigan,569935,"Grand Rapids, MI Urbanized Area",26100,"Holland-Grand Haven, MI Metro Area",,
+60,34813,"Green Bay, WI",WI,Wisconsin,206520,"Green Bay, WI Urbanized Area",24580,"Green Bay, WI Metro Area",16,3217
+61,35164,"Greensboro, NC",NC,North Carolina,311810,"Greensboro, NC Urbanized Area",24660,"Greensboro-High Point, NC Metro Area",4,26993
+62,35461,"Greenville, SC",SC,South Carolina,400492,"Greenville, SC Urbanized Area",11340,"Anderson, SC Metro Area",,
+62,35461,"Greenville, SC",SC,South Carolina,400492,"Greenville, SC Urbanized Area",24860,"Greenville-Mauldin-Easley, SC Metro Area",10,14646
+62,35461,"Greenville, SC",SC,South Carolina,400492,"Greenville, SC Urbanized Area",43900,"Spartanburg, SC Metro Area",8,6393
+63,35920,"Gulfport, MS",MS,Mississippi,208948,"Gulfport, MS Urbanized Area",25060,"Gulfport-Biloxi, MS Metro Area",11,6045
+63,35920,"Gulfport, MS",MS,Mississippi,208948,"Gulfport, MS Urbanized Area",37700,"Pascagoula, MS Metro Area",,
+64,37081,"Harrisburg, PA",PA,Pennsylvania,444474,"Harrisburg, PA Urbanized Area",25420,"Harrisburg-Carlisle, PA Metro Area",21,3138
+64,37081,"Harrisburg, PA",PA,Pennsylvania,444474,"Harrisburg, PA Urbanized Area",30140,"Lebanon, PA Metro Area",6,3162
+64,37081,"Harrisburg, PA",PA,Pennsylvania,444474,"Harrisburg, PA Urbanized Area",49620,"York-Hanover, PA Metro Area",16,4028
+65,37243,"Hartford, CT",CT,Connecticut,924859,"Hartford, CT Urbanized Area",25540,"Hartford-West Hartford-East Hartford, CT Metro Area",58,2990
+65,37243,"Hartford, CT",CT,Connecticut,924859,"Hartford, CT Urbanized Area",45860,"Torrington, CT Micro Area",,
+66,38647,"Hickory, NC",NC,North Carolina,212195,"Hickory, NC Urbanized Area",25860,"Hickory-Lenoir-Morganton, NC Metro Area",6,9073
+67,40429,"Houston, TX",TX,Texas,4944332,"Houston, TX Urbanized Area",26420,"Houston-Sugar Land-Baytown, TX Metro Area",64,19360
+68,40780,"Huntsville, AL",AL,Alabama,286692,"Huntsville, AL Urbanized Area",26620,"Huntsville, AL Metro Area",5,13006
+69,41212,"Indianapolis, IN",IN,Indiana,1487483,"Indianapolis, IN Urbanized Area",11300,"Anderson, IN Metro Area",,
+69,41212,"Indianapolis, IN",IN,Indiana,1487483,"Indianapolis, IN Urbanized Area",26900,"Indianapolis-Carmel, IN Metro Area",56,5628
+70,41347,"Indio--Cathedral City, CA",CA,California,345580,"Indio--Cathedral City, CA Urbanized Area",40140,"Riverside-San Bernardino-Ontario, CA Metro Area",56,15001
+71,42211,"Jackson, MS",MS,Mississippi,351478,"Jackson, MS Urbanized Area",27140,"Jackson, MS Metro Area",13,8287
+72,42346,"Jacksonville, FL",FL,Florida,1065219,"Jacksonville, FL Urbanized Area",27260,"Jacksonville, FL Metro Area",5,51977
+73,43723,"Kalamazoo, MI",MI,Michigan,209703,"Kalamazoo, MI Urbanized Area",28020,"Kalamazoo-Portage, MI Metro Area",21,2319
+74,43912,"Kansas City, MO--KS",KS,Kansas,663508,"Kansas City, MO--KS Urbanized Area",28140,"Kansas City, MO-KS Metro Area",82,4103
+75,43912,"Kansas City, MO--KS",MO,Missouri,855909,"Kansas City, MO--KS Urbanized Area",28140,"Kansas City, MO-KS Metro Area",82,4103
+76,44479,"Kennewick--Pasco, WA",WA,Washington,210975,"Kennewick--Pasco, WA Urbanized Area",28420,"Kennewick-Pasco-Richland, WA Metro Area",10,5329
+76,44479,"Kennewick--Pasco, WA",WA,Washington,210975,"Kennewick--Pasco, WA Urbanized Area",47460,"Walla Walla, WA Micro Area",9,1044
+77,44992,"Killeen, TX",TX,Texas,217630,"Killeen, TX Urbanized Area",28660,"Killeen-Temple-Fort Hood, TX Metro Area",15,5745
+78,45451,"Kissimmee, FL",FL,Florida,314071,"Kissimmee, FL Urbanized Area",36740,"Orlando-Kissimmee-Sanford, FL Metro Area",4,87985
+79,45640,"Knoxville, TN",TN,Tennessee,558696,"Knoxville, TN Urbanized Area",25340,"Harriman, TN Micro Area",,
+79,45640,"Knoxville, TN",TN,Tennessee,558696,"Knoxville, TN Urbanized Area",28940,"Knoxville, TN Metro Area",15,8190
+79,45640,"Knoxville, TN",TN,Tennessee,558696,"Knoxville, TN Urbanized Area",99999,Not in a metro/micro area,,
+79,45640,"Knoxville, TN",TN,Tennessee,558696,"Knoxville, TN Urbanized Area",42940,"Sevierville, TN Micro Area",,
+80,46045,"Lafayette, LA",LA,Louisiana,252720,"Lafayette, LA Urbanized Area",10020,"Abbeville, LA Micro Area",,
+80,46045,"Lafayette, LA",LA,Louisiana,252720,"Lafayette, LA Urbanized Area",18940,"Crowley, LA Micro Area",,
+80,46045,"Lafayette, LA",LA,Louisiana,252720,"Lafayette, LA Urbanized Area",29180,"Lafayette, LA Metro Area",5,14567
+80,46045,"Lafayette, LA",LA,Louisiana,252720,"Lafayette, LA Urbanized Area",35340,"New Iberia, LA Micro Area",,
+80,46045,"Lafayette, LA",LA,Louisiana,252720,"Lafayette, LA Urbanized Area",36660,"Opelousas-Eunice, LA Micro Area",,
+81,46828,"Lakeland, FL",FL,Florida,262596,"Lakeland, FL Urbanized Area",29460,"Lakeland-Winter Haven, FL Metro Area",1,97953
+81,46828,"Lakeland, FL",FL,Florida,262596,"Lakeland, FL Urbanized Area",45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",4,99257
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004,"Lancaster, PA Urbanized Area",25420,"Harrisburg-Carlisle, PA Metro Area",21,3138
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004,"Lancaster, PA Urbanized Area",29540,"Lancaster, PA Metro Area",16,4193
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004,"Lancaster, PA Urbanized Area",30140,"Lebanon, PA Metro Area",6,3162
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004,"Lancaster, PA Urbanized Area",39740,"Reading, PA Metro Area",18,3755
+82,47530,"Lancaster, PA",PA,Pennsylvania,402004,"Lancaster, PA Urbanized Area",49620,"York-Hanover, PA Metro Area",16,4028
+83,47611,"Lancaster--Palmdale, CA",CA,California,341219,"Lancaster--Palmdale, CA Urbanized Area",31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",108,18962
+84,47719,"Lansing, MI",MI,Michigan,313532,"Lansing, MI Urbanized Area",29620,"Lansing-East Lansing, MI Metro Area",26,2445
+84,47719,"Lansing, MI",MI,Michigan,313532,"Lansing, MI Urbanized Area",37020,"Owosso, MI Micro Area",,
+85,47854,"Laredo, TX",TX,Texas,235730,"Laredo, TX Urbanized Area",29700,"Laredo, TX Metro Area",3,22955
+86,47995,"Las Vegas--Henderson, NV",NV,Nevada,1886011,"Las Vegas--Henderson, NV Urbanized Area",29820,"Las Vegas-Paradise, NV Metro Area",1,320532
+87,49582,"Lexington-Fayette, KY",KY,Kentucky,290263,"Lexington-Fayette, KY Urbanized Area",30460,"Lexington-Fayette, KY Metro Area",7,10077
+88,49933,"Lincoln, NE",NE,Nebraska,258719,"Lincoln, NE Urbanized Area",30700,"Lincoln, NE Metro Area",8,5698
+89,50392,"Little Rock, AR",AR,Arkansas,431388,"Little Rock, AR Urbanized Area",30780,"Little Rock-North Little Rock-Conway, AR Metro Area",21,5135
+90,51445,"Los Angeles--Long Beach--Anaheim, CA",CA,California,12150996,"Los Angeles--Long Beach--Anaheim, CA Urbanized Area",31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",108,18962
+90,51445,"Los Angeles--Long Beach--Anaheim, CA",CA,California,12150996,"Los Angeles--Long Beach--Anaheim, CA Urbanized Area",37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",21,7312
+90,51445,"Los Angeles--Long Beach--Anaheim, CA",CA,California,12150996,"Los Angeles--Long Beach--Anaheim, CA Urbanized Area",40140,"Riverside-San Bernardino-Ontario, CA Metro Area",56,15001
+91,51755,"Louisville/Jefferson County, KY--IN",KY,Kentucky,832366,"Louisville/Jefferson County, KY--IN Urbanized Area",31140,"Louisville/Jefferson County, KY-IN Metro Area",21,8717
+92,51877,"Lubbock, TX",TX,Texas,237356,"Lubbock, TX Urbanized Area",31180,"Lubbock, TX Metro Area",16,3189
+93,52390,"McAllen, TX",TX,Texas,728825,"McAllen, TX Urbanized Area",32580,"McAllen-Edinburg-Mission, TX Metro Area",16,12858
+94,53200,"Madison, WI",WI,Wisconsin,401661,"Madison, WI Urbanized Area",31540,"Madison, WI Metro Area",33,2809
+95,56116,"Memphis, TN--MS--AR",TN,Tennessee,891481,"Memphis, TN--MS--AR Urbanized Area",32820,"Memphis, TN-MS-AR Metro Area",14,18292
+96,56602,"Miami, FL",FL,Florida,5502379,"Miami, FL Urbanized Area",33100,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",6,133886
+96,56602,"Miami, FL",FL,Florida,5502379,"Miami, FL Urbanized Area",38940,"Port St. Lucie, FL Metro Area",2,29135
+97,57466,"Milwaukee, WI",WI,Wisconsin,1376476,"Milwaukee, WI Urbanized Area",33340,"Milwaukee-Waukesha-West Allis, WI Metro Area",51,4475
+97,57466,"Milwaukee, WI",WI,Wisconsin,1376476,"Milwaukee, WI Urbanized Area",39540,"Racine, WI Metro Area",12,2444
+97,57466,"Milwaukee, WI",WI,Wisconsin,1376476,"Milwaukee, WI Urbanized Area",48020,"Watertown-Fort Atkinson, WI Micro Area",11,1699
+98,57628,"Minneapolis--St. Paul, MN--WI",MN,Minnesota,2650614,"Minneapolis--St. Paul, MN--WI Urbanized Area",33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",88,5997
+99,57709,"Mission Viejo--Lake Forest--San Clemente, CA",CA,California,583681,"Mission Viejo--Lake Forest--San Clemente, CA Urbanized Area",31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",108,18962
+99,57709,"Mission Viejo--Lake Forest--San Clemente, CA",CA,California,583681,"Mission Viejo--Lake Forest--San Clemente, CA Urbanized Area",41740,"San Diego-Carlsbad-San Marcos, CA Metro Area",42,11999
+100,57925,"Mobile, AL",AL,Alabama,326183,"Mobile, AL Urbanized Area",33660,"Mobile, AL Metro Area",4,15931
+101,58006,"Modesto, CA",CA,California,358172,"Modesto, CA Urbanized Area",33700,"Modesto, CA Metro Area",22,3382
+102,58600,"Montgomery, AL",AL,Alabama,263907,"Montgomery, AL Urbanized Area",33860,"Montgomery, AL Metro Area",6,13631
+103,60799,"Murrieta--Temecula--Menifee, CA",CA,California,441546,"Murrieta--Temecula--Menifee, CA Urbanized Area",40140,"Riverside-San Bernardino-Ontario, CA Metro Area",56,15001
+104,61165,"Nashua, NH--MA",NH,New Hampshire,219082,"Nashua, NH--MA Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",125,4134
+104,61165,"Nashua, NH--MA",NH,New Hampshire,219082,"Nashua, NH--MA Urbanized Area",31700,"Manchester-Nashua, NH Metro Area",,
+105,61273,"Nashville-Davidson, TN",TN,Tennessee,969587,"Nashville-Davidson, TN Urbanized Area",34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",19,14499
+106,62407,"New Haven, CT",CT,Connecticut,562839,"New Haven, CT Urbanized Area",25540,"Hartford-West Hartford-East Hartford, CT Metro Area",58,2990
+106,62407,"New Haven, CT",CT,Connecticut,562839,"New Haven, CT Urbanized Area",35300,"New Haven-Milford, CT Metro Area",26,4664
+107,62677,"New Orleans, LA",LA,Louisiana,899703,"New Orleans, LA Urbanized Area",26380,"Houma-Bayou Cane-Thibodaux, LA Metro Area",2,16491
+107,62677,"New Orleans, LA",LA,Louisiana,899703,"New Orleans, LA Urbanized Area",35380,"New Orleans-Metairie-Kenner, LA Metro Area",9,13966
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466,"New York--Newark, NY--NJ--CT Urbanized Area",10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",46,2525
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715,"New York--Newark, NY--NJ--CT Urbanized Area",10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",24,5976
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466,"New York--Newark, NY--NJ--CT Urbanized Area",14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",24,5976
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715,"New York--Newark, NY--NJ--CT Urbanized Area",14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",24,5976
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466,"New York--Newark, NY--NJ--CT Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715,"New York--Newark, NY--NJ--CT Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466,"New York--Newark, NY--NJ--CT Urbanized Area",39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",46,2525
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715,"New York--Newark, NY--NJ--CT Urbanized Area",39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",46,2525
+108,63217,"New York--Newark, NY--NJ--CT",NJ,New Jersey,6159466,"New York--Newark, NY--NJ--CT Urbanized Area",45940,"Trenton-Ewing, NJ Metro Area",11,5075
+109,63217,"New York--Newark, NY--NJ--CT",NY,New York,12191715,"New York--Newark, NY--NJ--CT Urbanized Area",45940,"Trenton-Ewing, NJ Metro Area",11,5075
+110,64945,"Ogden--Layton, UT",UT,Utah,546026,"Ogden--Layton, UT Urbanized Area",14940,"Brigham City, UT Micro Area",,
+110,64945,"Ogden--Layton, UT",UT,Utah,546026,"Ogden--Layton, UT Urbanized Area",36260,"Ogden-Clearfield, UT Metro Area",5,25662
+111,65080,"Oklahoma City, OK",OK,Oklahoma,861505,"Oklahoma City, OK Urbanized Area",36420,"Oklahoma City, OK Metro Area",62,3516
+112,65269,"Omaha, NE--IA",NE,Nebraska,656462,"Omaha, NE--IA Urbanized Area",36540,"Omaha-Council Bluffs, NE-IA Metro Area",40,3779
+113,65863,"Orlando, FL",FL,Florida,1510516,"Orlando, FL Urbanized Area",36740,"Orlando-Kissimmee-Sanford, FL Metro Area",4,87985
+114,66673,"Oxnard, CA",CA,California,367260,"Oxnard, CA Urbanized Area",37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",21,7312
+115,67105,"Palm Bay--Melbourne, FL",FL,Florida,452791,"Palm Bay--Melbourne, FL Urbanized Area",37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",1,71232
+116,67134,"Palm Coast--Daytona Beach--Port Orange, FL",FL,Florida,349064,"Palm Coast--Daytona Beach--Port Orange, FL Urbanized Area",19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",2,36996
+116,67134,"Palm Coast--Daytona Beach--Port Orange, FL",FL,Florida,349064,"Palm Coast--Daytona Beach--Port Orange, FL Urbanized Area",37380,"Palm Coast, FL Metro Area",,
+117,68482,"Pensacola, FL--AL",FL,Florida,333801,"Pensacola, FL--AL Urbanized Area",19300,"Daphne-Fairhope-Foley, AL Micro Area",1,30247
+117,68482,"Pensacola, FL--AL",FL,Florida,333801,"Pensacola, FL--AL Urbanized Area",37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",2,33323
+118,68509,"Peoria, IL",IL,Illinois,266921,"Peoria, IL Urbanized Area",37900,"Peoria, IL Metro Area",49,1221
+119,69076,"Philadelphia, PA--NJ--DE--MD",DE,Delaware,481625,"Philadelphia, PA--NJ--DE--MD Urbanized Area",12100,"Atlantic City-Hammonton, NJ Metro Area",25,1888
+120,69076,"Philadelphia, PA--NJ--DE--MD",NJ,New Jersey,1150865,"Philadelphia, PA--NJ--DE--MD Urbanized Area",12100,"Atlantic City-Hammonton, NJ Metro Area",25,1888
+121,69076,"Philadelphia, PA--NJ--DE--MD",PA,Pennsylvania,3760387,"Philadelphia, PA--NJ--DE--MD Urbanized Area",12100,"Atlantic City-Hammonton, NJ Metro Area",25,1888
+119,69076,"Philadelphia, PA--NJ--DE--MD",DE,Delaware,481625,"Philadelphia, PA--NJ--DE--MD Urbanized Area",29540,"Lancaster, PA Metro Area",16,4193
+120,69076,"Philadelphia, PA--NJ--DE--MD",NJ,New Jersey,1150865,"Philadelphia, PA--NJ--DE--MD Urbanized Area",29540,"Lancaster, PA Metro Area",16,4193
+121,69076,"Philadelphia, PA--NJ--DE--MD",PA,Pennsylvania,3760387,"Philadelphia, PA--NJ--DE--MD Urbanized Area",29540,"Lancaster, PA Metro Area",16,4193
+119,69076,"Philadelphia, PA--NJ--DE--MD",DE,Delaware,481625,"Philadelphia, PA--NJ--DE--MD Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+120,69076,"Philadelphia, PA--NJ--DE--MD",NJ,New Jersey,1150865,"Philadelphia, PA--NJ--DE--MD Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+121,69076,"Philadelphia, PA--NJ--DE--MD",PA,Pennsylvania,3760387,"Philadelphia, PA--NJ--DE--MD Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+119,69076,"Philadelphia, PA--NJ--DE--MD",DE,Delaware,481625,"Philadelphia, PA--NJ--DE--MD Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+120,69076,"Philadelphia, PA--NJ--DE--MD",NJ,New Jersey,1150865,"Philadelphia, PA--NJ--DE--MD Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+121,69076,"Philadelphia, PA--NJ--DE--MD",PA,Pennsylvania,3760387,"Philadelphia, PA--NJ--DE--MD Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+122,69184,"Phoenix--Mesa, AZ",AZ,Arizona,3629114,"Phoenix--Mesa, AZ Urbanized Area",38060,"Phoenix-Mesa-Glendale, AZ Metro Area",,
+123,69697,"Pittsburgh, PA",PA,Pennsylvania,1733853,"Pittsburgh, PA Urbanized Area",38300,"Pittsburgh, PA Metro Area",105,2773
+124,71263,"Portland, ME",ME,Maine,203914,"Portland, ME Urbanized Area",38860,"Portland-South Portland-Biddeford, ME Metro Area",30,2351
+125,71317,"Portland, OR--WA",OR,Oregon,1490336,"Portland, OR--WA Urbanized Area",38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",52,6584
+126,71317,"Portland, OR--WA",WA,Washington,359562,"Portland, OR--WA Urbanized Area",38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",52,6584
+125,71317,"Portland, OR--WA",OR,Oregon,1490336,"Portland, OR--WA Urbanized Area",41420,"Salem, OR Metro Area",14,4765
+126,71317,"Portland, OR--WA",WA,Washington,359562,"Portland, OR--WA Urbanized Area",41420,"Salem, OR Metro Area",14,4765
+127,71479,"Port St. Lucie, FL",FL,Florida,376047,"Port St. Lucie, FL Urbanized Area",38940,"Port St. Lucie, FL Metro Area",2,29135
+128,71803,"Poughkeepsie--Newburgh, NY--NJ",NY,New York,412338,"Poughkeepsie--Newburgh, NY--NJ Urbanized Area",28740,"Kingston, NY Metro Area",10,2612
+128,71803,"Poughkeepsie--Newburgh, NY--NJ",NY,New York,412338,"Poughkeepsie--Newburgh, NY--NJ Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+128,71803,"Poughkeepsie--Newburgh, NY--NJ",NY,New York,412338,"Poughkeepsie--Newburgh, NY--NJ Urbanized Area",39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",46,2525
+129,72505,"Providence, RI--MA",MA,Massachusetts,260276,"Providence, RI--MA Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",225,4134
+130,72505,"Providence, RI--MA",RI,Rhode Island,930680,"Providence, RI--MA Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",125,4134
+129,72505,"Providence, RI--MA",MA,Massachusetts,260276,"Providence, RI--MA Urbanized Area",39300,"Providence-New Bedford-Fall River, RI-MA Metro Area",52,3946
+130,72505,"Providence, RI--MA",RI,Rhode Island,930680,"Providence, RI--MA Urbanized Area",39300,"Providence-New Bedford-Fall River, RI-MA Metro Area",52,3946
+129,72505,"Providence, RI--MA",MA,Massachusetts,260276,"Providence, RI--MA Urbanized Area",49340,"Worcester, MA Metro Area",52,2023
+130,72505,"Providence, RI--MA",RI,Rhode Island,930680,"Providence, RI--MA Urbanized Area",49340,"Worcester, MA Metro Area",52,2023
+131,72559,"Provo--Orem, UT",UT,Utah,482819,"Provo--Orem, UT Urbanized Area",39340,"Provo-Orem, UT Metro Area",5,30840
+132,73261,"Raleigh, NC",NC,North Carolina,884891,"Raleigh, NC Urbanized Area",20380,"Dunn, NC Micro Area",,
+132,73261,"Raleigh, NC",NC,North Carolina,884891,"Raleigh, NC Urbanized Area",20500,"Durham-Chapel Hill, NC Metro Area",5,13184
+132,73261,"Raleigh, NC",NC,North Carolina,884891,"Raleigh, NC Urbanized Area",99999,Not in a metro/micro area,,
+132,73261,"Raleigh, NC",NC,North Carolina,884891,"Raleigh, NC Urbanized Area",39580,"Raleigh-Cary, NC Metro Area",3,65356
+133,73693,"Reading, PA",PA,Pennsylvania,266254,"Reading, PA Urbanized Area",30140,"Lebanon, PA Metro Area",6,3162
+133,73693,"Reading, PA",PA,Pennsylvania,266254,"Reading, PA Urbanized Area",39060,"Pottsville, PA Micro Area",,
+133,73693,"Reading, PA",PA,Pennsylvania,266254,"Reading, PA Urbanized Area",39740,"Reading, PA Metro Area",18,3755
+134,74179,"Reno, NV--CA",NV,Nevada,392132,"Reno, NV--CA Urbanized Area",99999,Not in a metro/micro area,,
+134,74179,"Reno, NV--CA",NV,Nevada,392132,"Reno, NV--CA Urbanized Area",39900,"Reno-Sparks, NV Metro Area",3,22027
+135,74746,"Richmond, VA",VA,Virginia,953556,"Richmond, VA Urbanized Area",40060,"Richmond, VA Metro Area",18,10831
+136,75340,"Riverside--San Bernardino, CA",CA,California,1932666,"Riverside--San Bernardino, CA Urbanized Area",40140,"Riverside-San Bernardino-Ontario, CA Metro Area",56,15001
+137,75421,"Roanoke, VA",VA,Virginia,210111,"Roanoke, VA Urbanized Area",13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",5,4071
+137,75421,"Roanoke, VA",VA,Virginia,210111,"Roanoke, VA Urbanized Area",31340,"Lynchburg, VA Metro Area",6,6772
+137,75421,"Roanoke, VA",VA,Virginia,210111,"Roanoke, VA Urbanized Area",40220,"Roanoke, VA Metro Area",6,7444
+138,75664,"Rochester, NY",NY,New York,720572,"Rochester, NY Urbanized Area",40380,"Rochester, NY Metro Area",53,2889
+139,75718,"Rockford, IL",IL,Illinois,296863,"Rockford, IL Urbanized Area",40420,"Rockford, IL Metro Area",13,4310
+140,76474,"Round Lake Beach--McHenry--Grayslake, IL--WI",IL,Illinois,259811,"Round Lake Beach--McHenry--Grayslake, IL--WI Urbanized Area",16980,"Chicago-Joliet-Naperville, IL-IN-WI Metro Area",353,4425
+140,76474,"Round Lake Beach--McHenry--Grayslake, IL--WI",IL,Illinois,259811,"Round Lake Beach--McHenry--Grayslake, IL--WI Urbanized Area",48580,"Whitewater, WI Micro Area",,
+141,77068,"Sacramento, CA",CA,California,1723634,"Sacramento, CA Urbanized Area",40900,"Sacramento--Arden-Arcade--Roseville, CA Metro Area",46,7702
+142,77770,"St. Louis, MO--IL",IL,Illinois,372895,"St. Louis, MO--IL Urbanized Area",41180,"St. Louis, MO-IL Metro Area",125,3238
+143,77770,"St. Louis, MO--IL",MO,Missouri,1777811,"St. Louis, MO--IL Urbanized Area",41180,"St. Louis, MO-IL Metro Area",125,3238
+144,78229,"Salem, OR",OR,Oregon,236632,"Salem, OR Urbanized Area",41420,"Salem, OR Metro Area",14,4765
+145,78499,"Salt Lake City--West Valley City, UT",UT,Utah,1021243,"Salt Lake City--West Valley City, UT Urbanized Area",36260,"Ogden-Clearfield, UT Metro Area",5,25662
+145,78499,"Salt Lake City--West Valley City, UT",UT,Utah,1021243,"Salt Lake City--West Valley City, UT Urbanized Area",39340,"Provo-Orem, UT Metro Area",5,30840
+145,78499,"Salt Lake City--West Valley City, UT",UT,Utah,1021243,"Salt Lake City--West Valley City, UT Urbanized Area",41620,"Salt Lake City, UT Metro Area",6,33863
+146,78580,"San Antonio, TX",TX,Texas,1758210,"San Antonio, TX Urbanized Area",41700,"San Antonio-New Braunfels, TX Metro Area",39,10660
+147,78661,"San Diego, CA",CA,California,2956746,"San Diego, CA Urbanized Area",41740,"San Diego-Carlsbad-San Marcos, CA Metro Area",42,11999
+148,78904,"San Francisco--Oakland, CA",CA,California,3281212,"San Francisco--Oakland, CA Urbanized Area",41860,"San Francisco-Oakland-Fremont, CA Metro Area",79,7295
+148,78904,"San Francisco--Oakland, CA",CA,California,3281212,"San Francisco--Oakland, CA Urbanized Area",41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",40,6916
+149,79039,"San Jose, CA",CA,California,1664496,"San Jose, CA Urbanized Area",41860,"San Francisco-Oakland-Fremont, CA Metro Area",79,7295
+149,79039,"San Jose, CA",CA,California,1664496,"San Jose, CA Urbanized Area",41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",40,6916
+149,79039,"San Jose, CA",CA,California,1664496,"San Jose, CA Urbanized Area",42100,"Santa Cruz-Watsonville, CA Metro Area",10,3242
+150,79309,"Santa Clarita, CA",CA,California,258653,"Santa Clarita, CA Urbanized Area",31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",108,18962
+151,79498,"Santa Rosa, CA",CA,California,308231,"Santa Rosa, CA Urbanized Area",42220,"Santa Rosa-Petaluma, CA Metro Area",36,1305
+152,79606,"Sarasota--Bradenton, FL",FL,Florida,643260,"Sarasota--Bradenton, FL Urbanized Area",35840,"North Port-Bradenton-Sarasota, FL Metro Area",2,44050
+152,79606,"Sarasota--Bradenton, FL",FL,Florida,643260,"Sarasota--Bradenton, FL Urbanized Area",39460,"Punta Gorda, FL Metro Area",1,16264
+153,79768,"Savannah, GA",GA,Georgia,260677,"Savannah, GA Urbanized Area",42340,"Savannah, GA Metro Area",3,19077
+154,80227,"Scranton, PA",PA,Pennsylvania,381502,"Scranton, PA Urbanized Area",99999,Not in a metro/micro area,,
+154,80227,"Scranton, PA",PA,Pennsylvania,381502,"Scranton, PA Urbanized Area",42540,"Scranton--Wilkes-Barre, PA Metro Area",24,3126
+155,80389,"Seattle, WA",WA,Washington,3059393,"Seattle, WA Urbanized Area",14740,"Bremerton-Silverdale, WA Metro Area",5,7146
+155,80389,"Seattle, WA",WA,Washington,3059393,"Seattle, WA Urbanized Area",42660,"Seattle-Tacoma-Bellevue, WA Metro Area",48,10824
+156,81739,"Shreveport, LA",LA,Louisiana,298317,"Shreveport, LA Urbanized Area",43340,"Shreveport-Bossier City, LA Metro Area",4,18063
+157,83116,"South Bend, IN--MI",IN,Indiana,241870,"South Bend, IN--MI Urbanized Area",21140,"Elkhart-Goshen, IN Metro Area",7,5165
+157,83116,"South Bend, IN--MI",IN,Indiana,241870,"South Bend, IN--MI Urbanized Area",35660,"Niles-Benton Harbor, MI Metro Area",16,1585
+157,83116,"South Bend, IN--MI",IN,Indiana,241870,"South Bend, IN--MI Urbanized Area",43780,"South Bend-Mishawaka, IN-MI Metro Area",9,4990
+158,83764,"Spokane, WA",WA,Washington,387847,"Spokane, WA Urbanized Area",44060,"Spokane, WA Metro Area",30,3068
+159,83926,"Springfield, MA--CT",MA,Massachusetts,531589,"Springfield, MA--CT Urbanized Area",25540,"Hartford-West Hartford-East Hartford, CT Metro Area",58,2990
+159,83926,"Springfield, MA--CT",MA,Massachusetts,531589,"Springfield, MA--CT Urbanized Area",44140,"Springfield, MA Metro Area",24,3255
+160,83953,"Springfield, MO",MO,Missouri,273724,"Springfield, MO Urbanized Area",44180,"Springfield, MO Metro Area",27,2561
+161,85087,"Stockton, CA",CA,California,370583,"Stockton, CA Urbanized Area",44700,"Stockton, CA Metro Area",14,9855
+162,86302,"Syracuse, NY",NY,New York,412317,"Syracuse, NY Urbanized Area",45060,"Syracuse, NY Metro Area",37,2725
+163,86464,"Tallahassee, FL",FL,Florida,240223,"Tallahassee, FL Urbanized Area",45220,"Tallahassee, FL Metro Area",4,11449
+164,86599,"Tampa--St. Petersburg, FL",FL,Florida,2441770,"Tampa--St. Petersburg, FL Urbanized Area",29460,"Lakeland-Winter Haven, FL Metro Area",1,97953
+164,86599,"Tampa--St. Petersburg, FL",FL,Florida,2441770,"Tampa--St. Petersburg, FL Urbanized Area",45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",4,99257
+165,87490,"Thousand Oaks, CA",CA,California,214811,"Thousand Oaks, CA Urbanized Area",31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",108,18962
+165,87490,"Thousand Oaks, CA",CA,California,214811,"Thousand Oaks, CA Urbanized Area",37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",21,7312
+166,87868,"Toledo, OH--MI",OH,Ohio,479182,"Toledo, OH--MI Urbanized Area",33780,"Monroe, MI Metro Area",10,2246
+166,87868,"Toledo, OH--MI",OH,Ohio,479182,"Toledo, OH--MI Urbanized Area",45780,"Toledo, OH Metro Area",25,3092
+167,88462,"Trenton, NJ",NJ,New Jersey,296668,"Trenton, NJ Urbanized Area",35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",600,2944
+167,88462,"Trenton, NJ",NJ,New Jersey,296668,"Trenton, NJ Urbanized Area",37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",196,4009
+167,88462,"Trenton, NJ",NJ,New Jersey,296668,"Trenton, NJ Urbanized Area",45940,"Trenton-Ewing, NJ Metro Area",11,5075
+168,88732,"Tucson, AZ",AZ,Arizona,843168,"Tucson, AZ Urbanized Area",38060,"Phoenix-Mesa-Glendale, AZ Metro Area",77,8868
+168,88732,"Tucson, AZ",AZ,Arizona,843168,"Tucson, AZ Urbanized Area",46060,"Tucson, AZ Metro Area",16,9010
+169,88948,"Tulsa, OK",OK,Oklahoma,655479,"Tulsa, OK Urbanized Area",46140,"Tulsa, OK Metro Area",68,2442
+170,89770,"Urban Honolulu, HI",HI,Hawaii,802459,"Urban Honolulu, HI Urbanized Area",26180,"Honolulu, HI Metro Area",,
+171,90541,"Victorville--Hesperia, CA",CA,California,328454,"Victorville--Hesperia, CA Urbanized Area",40140,"Riverside-San Bernardino-Ontario, CA Metro Area",56,15001
+172,90892,"Virginia Beach, VA",VA,Virginia,1439666,"Virginia Beach, VA Urbanized Area",47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",14,18266
+173,90946,"Visalia, CA",CA,California,219454,"Visalia, CA Urbanized Area",47300,"Visalia-Porterville, CA Metro Area",46,2265
+174,92242,"Washington, DC--VA--MD",DC,District of Columbia,601723,"Washington, DC--VA--MD Urbanized Area",12580,"Baltimore-Towson, MD Metro Area",7,56586
+175,92242,"Washington, DC--VA--MD",MD,Maryland,1749163,"Washington, DC--VA--MD Urbanized Area",12580,"Baltimore-Towson, MD Metro Area",7,56586
+176,92242,"Washington, DC--VA--MD",VA,Virginia,2235884,"Washington, DC--VA--MD Urbanized Area",12580,"Baltimore-Towson, MD Metro Area",7,56586
+174,92242,"Washington, DC--VA--MD",DC,District of Columbia,601723,"Washington, DC--VA--MD Urbanized Area",47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,38510
+175,92242,"Washington, DC--VA--MD",MD,Maryland,1749163,"Washington, DC--VA--MD Urbanized Area",47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,38510
+176,92242,"Washington, DC--VA--MD",VA,Virginia,2235884,"Washington, DC--VA--MD Urbanized Area",47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,38510
+177,95077,"Wichita, KS",KS,Kansas,472870,"Wichita, KS Urbanized Area",48620,"Wichita, KS Metro Area",36,3476
+178,95833,"Wilmington, NC",NC,North Carolina,219957,"Wilmington, NC Urbanized Area",48900,"Wilmington, NC Metro Area",2,17059
+179,96670,"Winston-Salem, NC",NC,North Carolina,391024,"Winston-Salem, NC Urbanized Area",24660,"Greensboro-High Point, NC Metro Area",4,26993
+179,96670,"Winston-Salem, NC",NC,North Carolina,391024,"Winston-Salem, NC Urbanized Area",45640,"Thomasville-Lexington, NC Micro Area",,
+179,96670,"Winston-Salem, NC",NC,North Carolina,391024,"Winston-Salem, NC Urbanized Area",49180,"Winston-Salem, NC Metro Area",7,13822
+180,96697,"Winter Haven, FL",FL,Florida,201289,"Winter Haven, FL Urbanized Area",29460,"Lakeland-Winter Haven, FL Metro Area",1,97953
+181,97291,"Worcester, MA--CT",MA,Massachusetts,453586,"Worcester, MA--CT Urbanized Area",14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",125,4134
+181,97291,"Worcester, MA--CT",MA,Massachusetts,453586,"Worcester, MA--CT Urbanized Area",48740,"Willimantic, CT Micro Area",,
+181,97291,"Worcester, MA--CT",MA,Massachusetts,453586,"Worcester, MA--CT Urbanized Area",49340,"Worcester, MA Metro Area",52,2023
+182,97750,"York, PA",PA,Pennsylvania,232045,"York, PA Urbanized Area",49620,"York-Hanover, PA Metro Area",16,4028
+183,97831,"Youngstown, OH--PA",OH,Ohio,348073,"Youngstown, OH--PA Urbanized Area",10420,"Akron, OH Metro Area",29,3212
+183,97831,"Youngstown, OH--PA",OH,Ohio,348073,"Youngstown, OH--PA Urbanized Area",35260,"New Castle, PA Micro Area",,
+183,97831,"Youngstown, OH--PA",OH,Ohio,348073,"Youngstown, OH--PA Urbanized Area",49660,"Youngstown-Warren-Boardman, OH-PA Metro Area",46,1608

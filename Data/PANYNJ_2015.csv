@@ -1,0 +1,257 @@
+company,route,state1,state2,state3,urban_area1,urban_area2,urban_area3,bus_arr,pass_arr,bus_dep,pass_dep,capacity,location,level
+ABC Bus Tour,Carolinas,North Carolina,South Carolina,,,,,3,143.1248495,3,125.1312439,42.75,69 Chrystie St,
+Academy Bus Lines,Casinos: Atlantic City to PABT,New Jersey,,,"Atlantic City, NJ",,,5,76,4,47,51.3,PABT,LL-SW
+Academy Bus Lines,Casinos: Yonkers to PABT,,,,,,,2,10,3,48.33333333,51.3,PABT,LL-SW
+Academy Bus Lines,Jackson - Wall St.,New Jersey,,,,,,2,57,2,45,51.3,Greenwich/Battery,
+Academy Bus Lines,Jackson/Parkway Express - Midtown,New Jersey,,,,,,6,157,0,0,51.3,-,
+Academy Bus Lines,Jackson/Parkway Express - PABT,New Jersey,,,,,,6,113,14,410,51.3,PABT,LL-SW
+Academy Bus Lines,Parkway Express - PABT,,,,,,,9,383.8253968,8,300.1605364,51.3,PABT,LL-SW
+Academy Bus Lines,Parkway Express - Wall St.,,,,,,,8,300,10,298,51.3,Greenwich/Battery,
+Academy Bus Lines,Parkway Express - Wall St. via JC,,,,,,,5,185.5864625,0,0,51.3,Greenwich/Battery,
+Academy Bus Lines,PNC Arts Center - PABT,,,,,,,26,1032.02381,16,724.7142857,51.3,PABT,LL-SW
+Academy Bus Lines,Route 35 - PABT,,,,,,,2,93,2,83.7164751,51.3,PABT,LL-SW
+Academy Bus Lines,Route 36 - PABT,,,,,,,37,1262.36556,38,1358,51.3,PABT,LL-SW
+Academy Bus Lines,Route 36 - Wall St.,,,,,,,8,283,8,224,51.3,Greenwich/Battery,
+Academy Bus Lines,Route 9 - Wall St.,,,,,,,29,1137,31,1147,51.3,Greenwich/Battery,
+Academy Bus Lines,Sayreville - Midtown,New Jersey,,,,,,4,128,4,131,51.3,5 Av & 56 St,
+Academy Bus Lines,Sayreville - Wall St.,New Jersey,,,,,,4,103,4,96,51.3,Greenwich/Battery,
+Academy Bus Lines,Shore Points/Lincroft - Wall St.,New Jersey,,,,,,0,0,5,155.047619,51.3,Greenwich/Battery,
+Academy Bus Lines,Shore Points/Other - PABT,New Jersey,,,,,,17,435,16,477,51.3,PABT,LL-SW
+Academy Bus Lines,Shore Points/Red Bank - PABT,New Jersey,,,,,,5,172,9,362,51.3,PABT,LL-SW
+Academy Bus Lines,Shore Points/Red Bank - Wall St.,New Jersey,,,,,,7,288,7,242,51.3,Greenwich/Battery,
+Academy Bus Lines,Willingboro/Westampton - PABT,New Jersey,,,,,,12,342,12,385,51.3,PABT,LL-SW
+Academy Bus Lines,Willingboro/Westampton - Wall St.,New Jersey,,,,,,3,114,2,76,51.3,Greenwich/Battery,
+Academy Bus Lines,X23,,,,,,,17,585,19,733.5030303,51.3,5 Av & 59 St,
+Academy Bus Lines,X24,,,,,,,18,632.8,20,762.7725338,51.3,5 Av & 59 St,
+Academy/BestBus/DC2NY,Vienna/Fairfax,Virginia,,,,,,3,146.7582336,3,116.0059852,42.75,34 St & 9 Av,
+Academy/BestBus/DC2NY,Washington,District of Columbia,,,"Washington, DC--VA--MD",,,8,395.6450591,7,291.1758245,42.75,34 St & 9 Av,
+Academy/Go Buses,"Cambridge, MA",Massachusetts,,,"Boston, MA--NH--RI",,,9,446.7336446,9,349.6133713,42.75,451 W 30 St,
+Academy/Go Buses,"Providence, RI",,,,,,,4,197.6492914,4,147.8258139,42.75,451 W 30 St,
+Academy/Suburban,300/8A/Plainsboro - Downtown,New Jersey,,,,,,1,37.73076923,4,158,51.3,Greenwich/Battery,
+Academy/Suburban,300/8A/Plainsboro - Midtown,New Jersey,,,,,,23,803.6,2,89,51.3,42 St & 3 Av,
+Academy/Suburban,300/8A/Plainsboro - PABT,New Jersey,,,,,,14,362.030303,34,1280.251417,51.3,PABT,4-SW
+Adirondack Trailways,"via Kingston, NY",,,,,,,21,747.1375,23,830.2133394,42.75,PABT,LL-SW
+Akai Bus,Alabama,Alabama,,,,,,1,50.04391151,1,42.91034238,42.75,19 Allen St,
+AmexBus /Golden Horse/Horserun,"Atlanta, GA",Georgia,,,"Atlanta, GA",,,3,145.0358058,2,84.49086556,42.75,19 Allen St,
+Atlanta Tours/GD Tour,Florida,Florida,,,,,,2,102.4144454,2,84.98810131,42.75,127 East Broadway,
+Bieber Tourways,"Kutztown/Reading/York, PA",Pennsylvania,Pennsylvania,,"Reading, PA","York, PA",,21,489.6666667,23,527.5,51.3,PABT,LL-SW
+BoltBus,Baltmore/Greenbelt,Maryland,,,"Baltimore, MD",,,10,415.1398196,11,466.3384971,51.3,33 St & 11 Av,
+BoltBus,"Boston, MA",Massachusetts,,,"Boston, MA--NH--RI",,,12,505.8443483,12,509.341553,51.3,33 St & 11 Av,
+BoltBus,"Philadelphia, PA",Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,22,902.458967,22,947.041363,51.3,33 St & 11 Av,
+BoltBus,"Washington, DC",District of Columbia,,,"Washington, DC--VA--MD",,,12,503.3019245,12,503.3362001,51.3,33 St & 11 Av,
+Bus Ticket,"Chicago, IL",Illinois,,,"Chicago, IL--IN",,,2,99.53872138,1,41.56343652,42.75,103 Canal St,
+Bus2NYC,Atlanta/Greenville,Georgia,South Carolina,,"Atlanta, GA","Greenville, SC",,5,220.3837002,3,125.1483305,42.75,103 Canal St,
+C & J Bus Lines,New Hampshire / Maine,New Hampshire,Maine,,,,,3,106.65,3,115.347619,42.75,PABT,LL-SW
+Capital Bus Tours/LC Coach,Albany,,,,"Albany--Schenectady, NY",,,5,230.4217387,5,190.5139159,42.75,3 Allen St,
+Coach Run,Boston,Massachusetts,,,"Boston, MA--NH--RI",,,6,294.7687249,6,225.7044497,42.75,80 Allen St,
+Coach/Olympia Trails,Newark Airport Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,59,405.6661765,59,405.6661765,44.1,41 St & 8 Av,
+Community Coach,Route 77,,,,,,,36,976.35,36,1042,51.3,PABT,4-SW
+D & J Bus,"Chicago, IL",Illinois,,,"Chicago, IL--IN",,,1,48.66655552,1,41.56343652,42.75,156 E Broadway,
+Dartmouth Coach,New Hampshire,New Hampshire,,,,,,3,152.6131183,3,106.4402139,42.75,150 E 42 St / Lex-3rd,
+DeCamp,Route 100 - West Caldwell to Wall St,New Jersey,,,"New York--Newark, NY--NJ--CT",,,1,39,0,0,51.3,Greenwich/Battery,
+DeCamp,Route 32 - Nutley/Lyndhurst,New Jersey,,,"New York--Newark, NY--NJ--CT",,,13,279,12,264,51.3,PABT,LL-SW
+DeCamp,Route 33 - West Caldwell,New Jersey,,,"New York--Newark, NY--NJ--CT",,,45,1401,41,1280,51.3,PABT,LL-SW
+DeCamp,Route 44 - Bloomfield/Kearny,New Jersey,,,"New York--Newark, NY--NJ--CT",,,14,271,13,387,51.3,PABT,LL-SW
+DeCamp,Route 66 - West Orange,New Jersey,,,"New York--Newark, NY--NJ--CT",,,35,841,36,973,51.3,PABT,LL-SW
+DeCamp,Route 88 - Orange,New Jersey,,,"New York--Newark, NY--NJ--CT",,,8,184,9,288,51.3,PABT,LL-SW
+DeCamp,Route 99 - Harrison,New Jersey,,,"New York--Newark, NY--NJ--CT",,,9,279,8,248,51.3,PABT,LL-SW
+Eastern Travel/Hola Bus,Washington/Baltimore,Maryland,District of Columbia,,"Baltimore, MD","Washington, DC--VA--MD",,14,660.6869482,14,541.7995787,42.75,28 Allen St,
+Focus Travel,Atlanta,Georgia,,,"Atlanta, GA",,,3,122.5396781,3,125.3881782,42.75,120 East Broadway,
+Focus Travel,Philadelphia,Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,24,1177.84641,24,914.5521565,42.75,120 East Broadway,
+Focus Travel,Richmond,Virginia,,,"Richmond, VA",,,6,285.2459242,5,208.9559855,42.75,120 East Broadway,
+Focus Travel,Washington/Baltimore,Maryland,District of Columbia,,"Baltimore, MD","Washington, DC--VA--MD",,8,361.3228494,5,192.3520939,42.75,120 East Broadway,
+Fullington Trailways,"State College, PA",Pennsylvania,,,,,,2,101.038505,2,82.46022845,42.75,41 St & 8 Av,
+GD Tour,Philadelphia,Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,4,201.4377887,4,168.1227773,42.75,127 East Broadway,
+Good Year,"Norfolk, VA",Virginia,,,,,,3,136.7886359,3,125.6334211,42.75,19 Allen St,
+Great Wall,Harrisburg/York,Pennsylvania,Pennsylvania,,"Harrisburg, PA","York, PA",,1,32.27091035,1,42.29999923,42.75,94 Madison St,
+Great Wall,Pittsburgh/Youngstown,Pennsylvania,Ohio,,"Pittsburgh, PA","Youngstown, OH--PA",,1,45.592288,1,41.58052318,42.75,94 Madison St,
+Greyhound,"Atlantic City, NJ (Table 80)",New Jersey,,,"Atlantic City, NJ",,,24,809.33125,19,685.7735043,51.3,PABT,LL-NW
+Greyhound,Boston - Casinos (Table 108),Massachusetts,,,"Boston, MA--NH--RI",,,4,126.1,4,150.043254,51.3,PABT,LL-NW
+Greyhound,Cleveland/Chicago/Detroit (Table 201),Ohio,Illinois,Michigan,"Cleveland, OH","Chicago, IL--IN","Detroit, MI",2,74.525,2,72.02063492,51.3,PABT,LL-NW
+Greyhound,"Hempstead, NY (Table 121)",,,,,,,4,140.8625,4,139.5087302,51.3,PABT,LL-NW
+Greyhound,"Mt. Laurel, NJ (Table 120)",New Jersey,,,,,,12,449.225,12,461.7700855,51.3,PABT,LL-NW
+Greyhound,"Norfolk, VA (Table 420)",Virginia,,,,,,4,126.1041667,4,141.927381,51.3,PABT,LL-NW
+Greyhound,Pittsburgh/St.Louis/Los Angeles (Table 202),Pennsylvania,Missouri,California,"Pittsburgh, PA","St. Louis, MO--IL","Los Angeles--Long Beach--Anaheim, CA",8,249.5604167,9,301.1883547,51.3,PABT,LL-NW
+Greyhound,Richmond/Atlanta/Miami (Table 124),Virginia,Georgia,Florida,"Richmond, VA","Atlanta, GA","Miami, FL",9,306.99375,10,354.71279,51.3,PABT,LL-NW
+Greyhound/Adirondack,Albany/Montreal (Table 152),,,,"Albany--Schenectady, NY",,,18,600.2625,18,633.3667888,51.3,PABT,LL-NW
+Greyhound/Adirondack,Binghamton/Rochester/Syracuse (Table 170),,,,"Rochester, NY","Syracuse, NY",,8,269.4291667,7,262.0576618,51.3,PABT,LL-NW
+Greyhound/Adirondack,Buffalo/Toronto (Table 170),,,,"Buffalo, NY",,,12,404.7625,12,395.6892857,51.3,PABT,LL-NW
+Greyhound/Peter Pan,"Baltimore/Silver Spring/Wash (Table 126, 421)",Maryland,,,"Baltimore, MD",,,15,505.2395833,17,625.3307387,51.3,PABT,LL-NW
+Greyhound/Peter Pan,"Boston, MA (Table 105)",Massachusetts,,,"Boston, MA--NH--RI",,,28,966.5104167,27,993.0828144,51.3,PABT,LL-NW
+Greyhound/Peter Pan,"Philadelphia, PA (Table 120)",Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,16,561.8125,16,561.8949328,51.3,PABT,LL-NW
+Greyhound/Peter Pan,Springfield/Hartford (Table 104),Massachusetts,Connecticut,,"Springfield, MA--CT","Hartford, CT",,14,471.2979167,14,493.5485348,51.3,PABT,LL-SW
+Greyhound/Peter Pan,"Washginton, DC (Table 127)",District of Columbia,,,"Washington, DC--VA--MD",,,17,544.725,16,592.6888736,51.3,PABT,LL-NW
+Greyhound/Peter Pan,"Wilmington, DE (Table 126)",Delaware,,,,,,2,69.65,2,78.14563492,51.3,PABT,LL-NW
+HG Bus,Albany,,,,"Albany--Schenectady, NY",,,10,489.3744342,9,362.1173815,42.75,133 East Broadway,
+Hudson Co. Exec/Community Lines,Jersey City/Kennedy-PABT,New Jersey,,,"New York--Newark, NY--NJ--CT",,,259,3938,206,4565.991193,23.4,PABT,LL-SW
+Jaguar Bus,Cincinnati,Ohio,,,"Cincinnati, OH--KY--IN",,,3,140.5841823,3,125.1312439,42.75,59 Canal St,
+Lakeland Bus Lines,Route 46 - PABT,,,,,,,41,1082.007937,41,1341.5,51.3,PABT,4-SW
+Lakeland Bus Lines,Route 46/80 - Downtown,,,,,,,4,171.4047619,4,176,51.3,Greenwich/Battery,
+Lakeland Bus Lines,Route 46/80 - Midtown,,,,,,,3,130.8333333,0,0,51.3,-,
+Lakeland Bus Lines,Route 78 - PABT,,,,,,,12,452,11,423,51.3,PABT,4-SW
+Lakeland Bus Lines,Route 80 - PABT,,,,,,,11,450.7063492,14,559.3333333,51.3,PABT,4-SW
+Lily Travel,"State College, PA",Pennsylvania,,,,,,1,50.35537216,1,42.29999923,42.75,100 Lafayette St,
+LimoLiner,Boston,Massachusetts,,,"Boston, MA--NH--RI",,,4,200.5854625,4,163.5554393,42.75,1301 6 Av / W 53 St,
+Lucky Star,Boston,Massachusetts,,,"Boston, MA--NH--RI",,,16,764.8836953,16,626.7519352,42.75,145 Canal Street,
+Martz,Downtown Routes,,,,,,,0,0,4,156.3333333,51.3,Fulton St & Water St,
+Martz,PABT Routes,,,,,,,47,1868,43,1808,51.3,PABT,LL-SW
+Megabus,"Albany, NY",,,,"Albany--Schenectady, NY",,,5,308.6478298,5,302.5292432,72.9,34 St & 11 Av,
+Megabus,Amherst/Hartford/Burlington,Connecticut,Massachusetts,,"Hartford, CT",,,2,124.4243886,3,188.048868,72.9,34 St & 11 Av,
+Megabus,"Boston, MA",Massachusetts,,,"Boston, MA--NH--RI",,,17,1021.449324,18,1111.747762,72.9,34 St & 11 Av,
+Megabus,"Chicago, IL",Illinois,,,"Chicago, IL--IN",,,1,62.68918534,1,66.91666667,72.9,34 St & 11 Av,
+Megabus,"Philadelphia, PA",Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,19,1155.330742,19,1190.216354,72.9,34 St & 11 Av,
+Megabus,"Pittsburgh, PA",Pennsylvania,,,"Pittsburgh, PA",,,3,172.3543126,4,232.2829432,72.9,34 St & 11 Av,
+Megabus,"Providence, RI",Rhode Island,,,"Providence, RI--MA",,,4,243.4146852,4,247.800313,72.9,34 St & 11 Av,
+Megabus,"Toronto, ON",,,,,,,3,176.1526122,3,172.4531338,72.9,34 St & 11 Av,
+Megabus,Washington/Baltimore,District of Columbia,Maryland,,"Washington, DC--VA--MD","Baltimore, MD",,31,1835.284641,31,1898.70743,72.9,34 St & 11 Av,
+Monsey Trails,New Square/Monsey to Downtown,,,,,,,1,36.47368421,1,35.69444444,51.3,Trinity & Exchange,
+Monsey Trails,New Square/Monsey to Midtown,,,,,,,16,495.8137853,14,514.7464525,51.3,576 5 Av,
+NJ Transit,107 - Irvington - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,60,1154,49,1081,37.8,PABT,3-NW
+NJ Transit,108 - Newark - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,19,174,22,228,37.8,PABT,3-NW
+NJ Transit,111 - New York - IKEA - Jersey Gardens ,New Jersey,,,"New York--Newark, NY--NJ--CT",,,31,1044,30,855,44.1,PABT,4-SW
+NJ Transit,112 - Clark - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,25,650,24,707,44.1,PABT,4-SW
+NJ Transit,113 - Dunellen - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,65,2164,52,1822,44.1,PABT,4-SW
+NJ Transit,114 - Bridgewater - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,66,2110,57,2112,44.1,PABT,4-SW
+NJ Transit,115 - Rahway - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,19,589,20,540,44.1,PABT,4-SW
+NJ Transit,116 - Perth Amboy - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,38,1154,37,1184,44.1,PABT,4-SW
+NJ Transit,117 - Somerville - New York Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,4,194,5,240,44.1,PABT,4-SW
+NJ Transit,119 - Bayonne - PABT,New Jersey,,,"New York--Newark, NY--NJ--CT",,,43,1260.44558,43,1467.34073,37.8,PABT,LL-SW
+NJ Transit,120 - Bayonne - Lower Manhattan,New Jersey,,,"New York--Newark, NY--NJ--CT",,,7,176,6,142,37.8,Greenwich/Battery,
+NJ Transit,121 - North Bergen - Union City - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,4,25,4,68,51.3,PABT,3-SW
+NJ Transit,122- Secaucus - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,16,743,16,523,51.3,PABT,3-NW
+NJ Transit,123 - Jersey City - Union City - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,48,1683,57,2253,37.8,PABT,3-SW
+NJ Transit,124 - Harmon Cove - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,9,135,9,171,51.3,PABT,3-NW
+NJ Transit,125 - Journal Square - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,20,314,18,255,37.8,PABT,3-SW
+NJ Transit,126 - Hoboken - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,211,5996,182,6213,37.8,PABT,3-SW
+NJ Transit,127 - Ridgefield - Union City - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,33,1188,26,718,51.3,PABT,3-SW
+NJ Transit,128 - Boulevard East - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,102,4436,53,2783,51.3,PABT,3-SW
+NJ Transit,129 - Secaucus - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,35,1179,33,1174,51.3,PABT,3-NW
+NJ Transit,130 - Lakewood-New York Union Hill Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,0,0,23,987,51.3,PABT,3-NW
+NJ Transit,131 - Sayreville - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,12,490,12,501,51.3,PABT,3-NW
+NJ Transit,132 - Lakewood-New York Gordons Corner Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,13,585.4035424,19,980,51.3,PABT,3-NW
+NJ Transit,133 - Old Bridge - Aberdeen - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,14,560,15,541,51.3,PABT,3-NW
+NJ Transit,135 - Freehold - Matawan - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,8,352.0138994,6,247,51.3,PABT,3-NW
+NJ Transit,136 - Lakewood - New York Freehold Mall Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,3,143,16,666,51.3,PABT,3-NW
+NJ Transit,137 - Toms River - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,27,960,25,925,51.3,PABT,3-NW
+NJ Transit,138 - Old Bridge - East Brunswick - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,9,321,9,330,51.3,PABT,3-NW
+NJ Transit,139 - Lakewood - Old Bridge - New York (via Route 9),New Jersey,,,"New York--Newark, NY--NJ--CT",,,139,5306,96,3870,51.3,PABT,3-NW
+NJ Transit,144 - Fair Lawn-Hackensack-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,16,532,12,338,44.1,PABT,LL-NW
+NJ Transit,145 - Fair Lawn - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,12,503,7,276,51.3,PABT,LL-SW
+NJ Transit,148 - Midland Park-Fair Lawn-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,4,168,4,164,51.3,PABT,LL-SW
+NJ Transit,151 - Paterson - New York Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,10,444,3,135,51.3,PABT,3-NW
+NJ Transit,153 - Fairview - Fort Lee - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,3,130.2744196,2,63,45.45,PABT,3-SW
+NJ Transit,154 - Fort Lee-Palisades Park-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,34,1192,27,857,37.8,PABT,3-SW
+NJ Transit,155 - Bogota-Ridgefield Park-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,7,265,9,373,44.1,PABT,LL-NW
+NJ Transit,156 - Englewood Cliffs-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,78,2822,54,2148,45.45,PABT,3-SW
+NJ Transit,157 - Teaneck-Ridgefield Park-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,5,210,8,207,44.1,PABT,LL-NW
+NJ Transit,158 - Fort Lee-Edgewater-New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,67,2975,79,3794,45.45,PABT,3-SW
+NJ Transit,159 - Fort Lee-New York-Turnpike Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,102,3746,103,4410,45.45,PABT,3-SW
+NJ Transit,160 - Elmwood Park - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,37,1306,35,1092,51.3,PABT,LL-SW
+NJ Transit,161 - Paterson - Passaic - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,76,2209,62,2215,51.3,PABT,3-NW
+NJ Transit,162 - Maywood - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,20,860,13,675,44.1,PABT,4-SW
+NJ Transit,163 - Ridgewood - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,98,3267,87,3299,44.1,PABT,4-SW
+NJ Transit,164 - Midland Park - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,33,860,40,1570,44.1,PABT,LL-SW
+NJ Transit,165 - Westwood - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,132,4620,121,4480,44.1,PABT,3-NW
+NJ Transit,166 - Dumont - Tenafly - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,138,5236,136,5729,48.6,PABT,3-SW
+NJ Transit,167 - Harrington Park - Dumont - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,82,3030,80,3465,48.6,PABT,3-SW
+NJ Transit,168 - Paramus - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,40,1388,33,1069,44.1,PABT,LL-NW
+NJ Transit,171 - Paterson - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,23,366,23,373,37.8,GWBBS,
+NJ Transit,175 - Ridgewood - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,27,355,26,453,37.8,GWBBS,
+NJ Transit,177 - Harrington Park - New Milford - New York Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,40,1890,32,1663,48.6,PABT,3-SW
+NJ Transit,178 - Hackensack - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,26,471,25,440,37.8,GWBBS,
+NJ Transit,181 - Hoboken - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,11,179,11,205,37.8,GWBBS,
+NJ Transit,182 - Hackensack - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,28,511,26,505,37.8,GWBBS,
+NJ Transit,186 - Dumont - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,36,831,41,1054,37.8,GWBBS,
+NJ Transit,188 - River Road - New York - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,18,188,18,176,37.8,GWBBS,
+NJ Transit,190 - Paterson - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,120,3977,113,4199,51.3,PABT,3-SW
+NJ Transit,191 - Willowbrook - Little Falls - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,16,567,20,704,51.3,PABT,3-SW
+NJ Transit,192 - Clifton - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,60,2304,38,1502.449839,51.3,PABT,3-SW
+NJ Transit,193 - Packanack Lake - Willowbrook - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,25,1036,18,790,51.3,PABT,3-SW
+NJ Transit,194 - Newfoundland - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,12,146,30,1033,51.3,PABT,3-SW
+NJ Transit,195 - Willowbrook - Cedar Grove - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,12,355,12,524,51.3,PABT,3-SW
+NJ Transit,196 - Warwick - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,12,433,13,451,51.3,PABT,3-NW
+NJ Transit,197 - Warwick - Wayne - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,24,666,26,984,51.3,PABT,3-SW
+NJ Transit,198 - Wayne-William Paterson University-NY,New Jersey,,,"New York--Newark, NY--NJ--CT",,,7,184,10,329,51.3,PABT,3-SW
+NJ Transit,199 - Clifton - Lyndhurst - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,20,909,30,1340,51.3,PABT,3-SW
+NJ Transit,319 - New York  - Atlantic City - Cape May,New Jersey,New Jersey,,"New York--Newark, NY--NJ--CT","Atlantic City, NJ",,10,187,7,251,51.3,PABT,3-NW
+NJ Transit,320 - North Bergen Park & Ride - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,110,2974,93,3304,51.3,PABT,3-SW
+NJ Transit,321 - Vince Lombardi Park & Ride - New York,New Jersey,,,"New York--Newark, NY--NJ--CT",,,22,533,21,481,51.3,PABT,3-NW
+NJ Transit,324 - Wayne Rt. 23 Transit Center - New York Express,New Jersey,,,"New York--Newark, NY--NJ--CT",,,26,1083,17,829,51.3,PABT,3-SW
+Number 1 Bus,Richmond,Virginia,,,"Richmond, VA",,,1,43.58603722,2,85.81452785,42.75,19 Allen St,
+NY Tiger Travel,Virginia Beach/Norfolk,Virginia,,,,,,5,222.296637,5,199.339407,42.75,59 Canal St,
+NYC Transit,X17J,,,,,,,41,1376.937576,33,1200.479727,51.3,57 St & 3 Av,
+NYC Transit,X22,,,,,,,29,1006.433939,30,1082.270152,51.3,57 St & 3 Av,
+NYC Transit,X22A-Outerbridge P&R [was AE7],,,,,,,5,179.1587879,4,156.0757576,51.3,57 St & 3 Av,
+NYC Transit,X30 [fmr. Academy Forest routes],,,,,,,14,483.8630303,12,462.3030303,51.3,57 St & 11 Av,
+NYC Transit,X31 (via Lincooln Tunnel PM only),,,,,,,0,0,11,428.069697,51.3,57 St & 3 Av,
+Ocean/Bus Go NYC,Syracuse/Rochester/Buffalo,,,,"Syracuse, NY","Rochester, NY","Buffalo, NY",1,45.592288,1,41.58052318,42.75,3 Allen St,
+Oriental Pearl/Bus Pearl,Carolinas,North Carolina,South Carolina,,,,,2,98.71046704,2,83.56780735,42.75,47 Chrystie St,
+Panda/Pandora Bus,Atlanta,Georgia,,,"Atlanta, GA",,,7,314.3368815,7,298.379162,42.75,19 Allen St,
+Peter Pan/Bonanza,Berkshires/Pittsfield,Massachusetts,,,,,,2,67.59791667,2,78.14563492,51.3,PABT,LL-SW
+Peter Pan/Bonanza,"Hartford, CT",Connecticut,,,"Hartford, CT",,,7,259.5958333,6,208.5242369,51.3,PABT,LL-SW
+Peter Pan/Bonanza,"Providence, RI",Rhode Island,,,"Providence, RI--MA",,,8,265.7208333,9,318.8794567,51.3,PABT,LL-SW
+Rockland Coaches,Route 11A to PABT,,,,,,,20,487,20,438,51.3,PABT,4-SW
+Rockland Coaches,Route 14E to PABT,,,,,,,9,281,9,245,51.3,PABT,4-SW
+Rockland Coaches,Route 20 to PABT,,,,,,,24,841,24,817,51.3,PABT,4-SW
+Rockland Coaches,Route 21T to PABT,,,,,,,6,134,4,107,51.3,PABT,4-SW
+Rockland Coaches,Route 45/45A/45X to PABT,,,,,,,32,1087,27,948,51.3,PABT,4-SW
+Rockland Coaches,Route 46 to PABT,,,,,,,2,72,1,22,51.3,PABT,4-SW
+Rockland Coaches,Route 47 to PABT,,,,,,,15,528,15,531,51.3,PABT,4-SW
+Rockland Coaches,Route 49 to PABT,,,,,,,9,289,9,331,51.3,PABT,4-SW
+Rockland Coaches,Route 49J to Midtown,,,,,,,7,180,0,0,51.3,-,
+Rockland Coaches,Route 49J to PABT,,,,,,,0,0,6,212,51.3,PABT,4-SW
+Rockland Coaches,Route 9/9A to GWBBS,,,,,,,9,180,11,237,51.3,GWBBS,
+Rockland Coaches,Route 9AT to GWBBS and PABT,,,,,,,7,79.5,5,38,51.3,PABT,4-SW
+Rockland Coaches,Route 9T/9AT to PABT,,,,,,,10,275,11,293,51.3,PABT,4-SW
+Rockledge Bus,"Baltimore, MA",Maryland,,,"Baltimore, MD",,,11,536.0258077,11,427.6431962,42.75,133 East Broadway,
+Rockledge Bus,"Dover, DE",Delaware,,,,,,3,129.9482343,3,105.0443999,42.75,133 East Broadway,
+Rockledge Bus,"Norfolk, VA",Virginia,,,,,,4,171.3206001,5,199.339407,42.75,133 East Broadway,
+Saddle River Tours,Route 11C to GWBBS,,,,,,,8,155,7,149,51.3,GWBBS,
+Saddle River Tours,Route 20/84 to GWBBS,,,,,,,5,97,5,108,51.3,GWBBS,
+Saddle River Tours,Route 55 - Bloomfield to Midtown,New Jersey,,,"New York--Newark, NY--NJ--CT",,,1,36.64,1,42.83333333,51.3,41 St & Broadway,
+Shortline,Bergen County/Suffern - 17SF/RG/US,New Jersey,,,"New York--Newark, NY--NJ--CT",,,64,2330.573332,67,2324.652563,51.3,PABT,4-SW
+Shortline,Catskills - Monticello/Kerhonkson/Wurtsboro,,,,,,,9,352,10,324,51.3,PABT,4-SW
+Shortline,Hawley/Honesdale/Milford - PABT - x84-PA,Pennsylvania,,,,,,6,142,7,227,51.3,PABT,4-SW
+Shortline,Nanuet/Exit 14 - Midtown Express,,,,,,,17,635,16,523,51.3,5 Av & 56 St,
+Shortline,Orange - Chester/Goshen/Monroe/Middlet'n - 17C/G/M,,,,,,,47,1777,48,1776,51.3,PABT,4-SW
+Shortline,"Orange - Newburgh/West Point/Stewart - x32N, x87N",,,,"Poughkeepsie--Newburgh, NY--NJ",,,20,837,17,604,51.3,PABT,4-SW
+Shortline,Orange - Woodbury/W'bury Common/Central Valley,,,,,,,9,224,16,586,51.3,PABT,4-SW
+Shortline,Poughkeepsie/Rhinebeck,,,,"Poughkeepsie--Newburgh, NY--NJ",,,5,181,5,133,51.3,PABT,4-SW
+Shortline / Megabus,Binghamton/Ithaca,,,,,,,8,230,8,209,51.3,PABT,4-SW
+Shun Feng,"State College, PA",Pennsylvania,,,,,,2,96.69070364,2,65.85914797,42.75,100 Lafayette St,
+Sky Horse Bus,"Detroit, MI",Michigan,,,"Detroit, MI",,,1,50.04391151,1,41.56343652,42.75,156 East Broadway,
+Spanish/Express Service,Bergenline/Jersey City - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,66,551,36,506,23.4,GWBBS,
+Spanish/Express Service,Paterson - GWBBS,New Jersey,,,"New York--Newark, NY--NJ--CT",,,290,2942.403858,202,2472.375636,23.4,GWBBS,
+Spanish/Express Service,Paterson - 8th Ave.,New Jersey,,,"New York--Newark, NY--NJ--CT",,,118,1405,149,2027,23.4,632 8 Av / W 41 St,
+Spanish/Express Service,Paterson - PABT,New Jersey,,,"New York--Newark, NY--NJ--CT",,,86,886,206,730,23.4,PABT,LL-SW
+Sphinx/Fuji/Galaxy Jitneys,Bergenline/Boulevard East - 42 St.,New Jersey,,,"New York--Newark, NY--NJ--CT",,,173,2088.606779,212,3200.556376,23.4,327 W 42nd Street,
+Spring Tour Bus,Cincinnati / Louisville,Ohio,Kentucky,,"Cincinnati, OH--KY--IN","Louisville/Jefferson County, KY--IN",,2,94.9918943,2,84.25153861,42.75,19 Allen St,
+Sprinter,VirginiaBeach,Virginia,,,,,,4,182.9762255,3,113.597897,42.75,201 W 37 St / 7 Av,
+Star Line Express,Tampa,Florida,,,"Tampa--St. Petersburg, FL",,,2,101.2511342,2,85.21034161,42.75,95 Canal St,
+Starlight Express/NYC Shuttle,"Charlottesville, VA",Virginia,,,,,,1,49.6165615,1,41.58052318,42.75,9 Av & 13 St,
+Suburban Transit,200 - Hillsborough - Midtown,New Jersey,,,"New York--Newark, NY--NJ--CT",,,4,133.1854545,4,156.0757576,51.3,42 St & 1 Av,
+Suburban Transit,400 - Turnpike Express - PABT,,,,,,,31,916,41,993.1904762,51.3,PABT,4-SW
+Suburban Transit,500 - Crosstown Service - Midtown,,,,,,,30,1185,11,403,51.3,42 St & 1 Av,
+Suburban Transit,600 - Downtowner,,,,,,,32,1100.866667,31,1061.963636,51.3,Greenwich/Morris,
+Suburban Transit / Megabus,100 - Princeton - PABT,New Jersey,,,"New York--Newark, NY--NJ--CT",,,62,1831,64,2140,51.3,PABT,4-SW
+Susquehanna Trailways,Sunbury/Williamsport,Pennsylvania,,,,,,2,64.28333333,2,66.33852259,42.75,PABT,LL-SW
+Tennessee Travel,Tennessee,Tennessee,,,,,,1,50.04391151,1,42.91034238,42.75,19 Pike St,
+Trans-Bridge Lines,Allentown/Bethlehem via I-78 - to PABT,Pennsylvania,,,,,,35,1395,35,1248,51.3,PABT,LL-SW
+Trans-Bridge Lines,Allentown/Bethlehem via I-78 - to Wall St.,Pennsylvania,,,,,,7,252,7,230,51.3,Water St & Wall St,
+Trans-Bridge Lines,Doylestown via Route 202 to PABT,Pennsylvania,,,,,,13,400,12,372,51.3,PABT,LL-SW
+Trans-Bridge Lines,Sands Casino,Pennsylvania,,,,,,5,77,5,66,51.3,PABT,LL-SW
+Tripper Bus,"Arlington, VA",Virginia,,,,,,9,449.8757936,8,322.9238794,42.75,313 W 31st St,
+United Bus,Baltimore,Maryland,,,"Baltimore, MD",,,0,0,1,42.91034238,42.75,13 Allen St,
+United Bus,Norfolk,Virginia,,,,,,4,171.3206001,4,158.4250078,42.75,13 Allen St,
+United Bus,Philadelphia,Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,7,342.6205454,7,260.9422961,42.75,13 Allen St,
+United Bus,Raleigh,North Carolina,,,"Raleigh, NC",,,1,38.68848859,1,40.91439924,42.75,13 Allen St,
+United Bus,Savannah,Georgia,,,"Savannah, GA",,,1,48.66655552,1,42.68810208,42.75,13 Allen St,
+Vamoose,"Arlington, VA",Virginia,,,,,,10,495.1260101,10,399.6156573,42.75,7 Av & 30 St,
+Vamoose,"Bethesda, MD",Maryland,,,,,,7,348.3214349,8,324.0196296,42.75,7 Av & 30 St,
+Washington Deluxe,Washington,District of Columbia,,,"Washington, DC--VA--MD",,,7,343.2642176,7,278.8806587,42.75,122 Allen St,
+Y & H,Albany,,,,"Albany--Schenectady, NY",,,4,191.3091146,4,146.6331733,42.75,3 Allen St,
+Y & H,Baltimore,Maryland,,,"Baltimore, MD",,,3,149.1075373,4,154.2058386,42.75,3 Allen St,
+Y & H,Orlando,Florida,,,"Orlando, FL",,,2,97.53256149,2,85.59844446,42.75,3 Allen St,
+Y & H,Raleigh,North Carolina,,,"Raleigh, NC",,,2,89.911376,2,84.47377891,42.75,3 Allen St,
+Yo! Bus,Boston,Massachusetts,,,"Boston, MA--NH--RI",,,4,201.1816049,4,154.4038673,51.3,2 Pike St.,
+Yo! Bus,Philadelphia,Pennsylvania,,,"Philadelphia, PA--NJ--DE--MD",,,4,200.5071495,4,167.5175424,51.3,2 Pike St.,
